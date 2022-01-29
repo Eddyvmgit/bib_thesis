@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.3</creator>
+      <lastmodified>28/01/2022</lastmodified>
+    </meta>
+    <nodes>
+      <node id="understandingcompliancewithinternetusepolicyfromtheperspectiveofrationalchoicetheory2010" label="understandingcompliancewithinternetusepolicyfromtheperspectiveofrationalchoicetheory2010" />
+      <node id="neutralizationnewinsightsintotheproblemofemployeeinformationsystemssecuritypolicyviolations2010" label="neutralizationnewinsightsintotheproblemofemployeeinformationsystemssecuritypolicyviolations2010" />
+      <node id="doesonesizefitallexaminingthedifferentialeffectsofissecuritycountermeasures2009" label="doesonesizefitallexaminingthedifferentialeffectsofissecuritycountermeasures2009" />
+      <node id="encouraginginformationsecuritybehaviorsinorganizationsroleofpenaltiespressuresandperceivedeffectiveness2009" label="encouraginginformationsecuritybehaviorsinorganizationsroleofpenaltiespressuresandperceivedeffectiveness2009" />
+      <node id="examiningdigitalpiracyselfcontrolpunishmentandselfefficacy2009" label="examiningdigitalpiracyselfcontrolpunishmentandselfefficacy2009" />
+      <node id="protectionmotivationanddeterrenceaframeworkforsecuritypolicycomplianceinorganisations2009" label="protectionmotivationanddeterrenceaframeworkforsecuritypolicycomplianceinorganisations2009" />
+      <node id="userawarenessofsecuritycountermeasuresanditsimpactoninformationsystemsmisuseadeterrenceapproach2009" label="userawarenessofsecuritycountermeasuresanditsimpactoninformationsystemsmisuseadeterrenceapproach2009" />
+      <node id="anapplicationofdeterrencetheorytosoftwarepiracy2005" label="anapplicationofdeterrencetheorytosoftwarepiracy2005" />
+      <node id="anintegrativemodelofcomputerabusebasedonsocialcontrolandgeneraldeterrencetheories2004" label="anintegrativemodelofcomputerabusebasedonsocialcontrolandgeneraldeterrencetheories2004" />
+      <node id="anintegrativestudyofinformationsystemssecurityeffectiveness2003" label="anintegrativestudyofinformationsystemssecurityeffectiveness2003" />
+      <node id="asociallearningtheoryanalysisofcomputercrimeamongcollegestudents1997" label="asociallearningtheoryanalysisofcomputercrimeamongcollegestudents1997" />
+      <node id="preventiveanddeterrentcontrolsforsoftwarepiracy1997" label="preventiveanddeterrentcontrolsforsoftwarepiracy1997" />
+      <node id="employeesbehaviortowardsissecuritypolicycompliance2007" label="employeesbehaviortowardsissecuritypolicycompliance2007" />
+      <node id="effectiveissecurityanempiricalstudy1990" label="effectiveissecurityanempiricalstudy1990" />
+    </nodes>
+    <edges>
+      <edge id="0" source="understandingcompliancewithinternetusepolicyfromtheperspectiveofrationalchoicetheory2010" target="neutralizationnewinsightsintotheproblemofemployeeinformationsystemssecuritypolicyviolations2010" weight="4" />
+      <edge id="1" source="understandingcompliancewithinternetusepolicyfromtheperspectiveofrationalchoicetheory2010" target="doesonesizefitallexaminingthedifferentialeffectsofissecuritycountermeasures2009" weight="3" />
+      <edge id="2" source="understandingcompliancewithinternetusepolicyfromtheperspectiveofrationalchoicetheory2010" target="encouraginginformationsecuritybehaviorsinorganizationsroleofpenaltiespressuresandperceivedeffectiveness2009" weight="5" />
+      <edge id="3" source="understandingcompliancewithinternetusepolicyfromtheperspectiveofrationalchoicetheory2010" target="examiningdigitalpiracyselfcontrolpunishmentandselfefficacy2009" weight="1" />
+      <edge id="4" source="understandingcompliancewithinternetusepolicyfromtheperspectiveofrationalchoicetheory2010" target="protectionmotivationanddeterrenceaframeworkforsecuritypolicycomplianceinorganisations2009" weight="5" />
+      <edge id="5" source="understandingcompliancewithinternetusepolicyfromtheperspectiveofrationalchoicetheory2010" target="userawarenessofsecuritycountermeasuresanditsimpactoninformationsystemsmisuseadeterrenceapproach2009" weight="6" />
+      <edge id="6" source="understandingcompliancewithinternetusepolicyfromtheperspectiveofrationalchoicetheory2010" target="anapplicationofdeterrencetheorytosoftwarepiracy2005" weight="3" />
+      <edge id="7" source="understandingcompliancewithinternetusepolicyfromtheperspectiveofrationalchoicetheory2010" target="employeesbehaviortowardsissecuritypolicycompliance2007" weight="1" />
+      <edge id="8" source="neutralizationnewinsightsintotheproblemofemployeeinformationsystemssecuritypolicyviolations2010" target="doesonesizefitallexaminingthedifferentialeffectsofissecuritycountermeasures2009" weight="6" />
+      <edge id="9" source="neutralizationnewinsightsintotheproblemofemployeeinformationsystemssecuritypolicyviolations2010" target="encouraginginformationsecuritybehaviorsinorganizationsroleofpenaltiespressuresandperceivedeffectiveness2009" weight="4" />
+      <edge id="10" source="neutralizationnewinsightsintotheproblemofemployeeinformationsystemssecuritypolicyviolations2010" target="examiningdigitalpiracyselfcontrolpunishmentandselfefficacy2009" weight="4" />
+      <edge id="11" source="neutralizationnewinsightsintotheproblemofemployeeinformationsystemssecuritypolicyviolations2010" target="protectionmotivationanddeterrenceaframeworkforsecuritypolicycomplianceinorganisations2009" weight="5" />
+      <edge id="12" source="neutralizationnewinsightsintotheproblemofemployeeinformationsystemssecuritypolicyviolations2010" target="userawarenessofsecuritycountermeasuresanditsimpactoninformationsystemsmisuseadeterrenceapproach2009" weight="12" />
+      <edge id="13" source="neutralizationnewinsightsintotheproblemofemployeeinformationsystemssecuritypolicyviolations2010" target="anapplicationofdeterrencetheorytosoftwarepiracy2005" weight="4" />
+      <edge id="14" source="neutralizationnewinsightsintotheproblemofemployeeinformationsystemssecuritypolicyviolations2010" target="anintegrativemodelofcomputerabusebasedonsocialcontrolandgeneraldeterrencetheories2004" weight="4" />
+      <edge id="15" source="neutralizationnewinsightsintotheproblemofemployeeinformationsystemssecuritypolicyviolations2010" target="anintegrativestudyofinformationsystemssecurityeffectiveness2003" weight="4" />
+      <edge id="16" source="neutralizationnewinsightsintotheproblemofemployeeinformationsystemssecuritypolicyviolations2010" target="preventiveanddeterrentcontrolsforsoftwarepiracy1997" weight="1" />
+      <edge id="17" source="neutralizationnewinsightsintotheproblemofemployeeinformationsystemssecuritypolicyviolations2010" target="employeesbehaviortowardsissecuritypolicycompliance2007" weight="4" />
+      <edge id="18" source="neutralizationnewinsightsintotheproblemofemployeeinformationsystemssecuritypolicyviolations2010" target="effectiveissecurityanempiricalstudy1990" weight="2" />
+      <edge id="19" source="doesonesizefitallexaminingthedifferentialeffectsofissecuritycountermeasures2009" target="encouraginginformationsecuritybehaviorsinorganizationsroleofpenaltiespressuresandperceivedeffectiveness2009" weight="4" />
+      <edge id="20" source="doesonesizefitallexaminingthedifferentialeffectsofissecuritycountermeasures2009" target="examiningdigitalpiracyselfcontrolpunishmentandselfefficacy2009" weight="2" />
+      <edge id="21" source="doesonesizefitallexaminingthedifferentialeffectsofissecuritycountermeasures2009" target="protectionmotivationanddeterrenceaframeworkforsecuritypolicycomplianceinorganisations2009" weight="5" />
+      <edge id="22" source="doesonesizefitallexaminingthedifferentialeffectsofissecuritycountermeasures2009" target="userawarenessofsecuritycountermeasuresanditsimpactoninformationsystemsmisuseadeterrenceapproach2009" weight="19" />
+      <edge id="23" source="doesonesizefitallexaminingthedifferentialeffectsofissecuritycountermeasures2009" target="anapplicationofdeterrencetheorytosoftwarepiracy2005" weight="2" />
+      <edge id="24" source="doesonesizefitallexaminingthedifferentialeffectsofissecuritycountermeasures2009" target="anintegrativemodelofcomputerabusebasedonsocialcontrolandgeneraldeterrencetheories2004" weight="2" />
+      <edge id="25" source="doesonesizefitallexaminingthedifferentialeffectsofissecuritycountermeasures2009" target="anintegrativestudyofinformationsystemssecurityeffectiveness2003" weight="3" />
+      <edge id="26" source="doesonesizefitallexaminingthedifferentialeffectsofissecuritycountermeasures2009" target="preventiveanddeterrentcontrolsforsoftwarepiracy1997" weight="2" />
+      <edge id="27" source="doesonesizefitallexaminingthedifferentialeffectsofissecuritycountermeasures2009" target="employeesbehaviortowardsissecuritypolicycompliance2007" weight="1" />
+      <edge id="28" source="doesonesizefitallexaminingthedifferentialeffectsofissecuritycountermeasures2009" target="effectiveissecurityanempiricalstudy1990" weight="1" />
+      <edge id="29" source="encouraginginformationsecuritybehaviorsinorganizationsroleofpenaltiespressuresandperceivedeffectiveness2009" target="examiningdigitalpiracyselfcontrolpunishmentandselfefficacy2009" weight="3" />
+      <edge id="30" source="encouraginginformationsecuritybehaviorsinorganizationsroleofpenaltiespressuresandperceivedeffectiveness2009" target="protectionmotivationanddeterrenceaframeworkforsecuritypolicycomplianceinorganisations2009" weight="24" />
+      <edge id="31" source="encouraginginformationsecuritybehaviorsinorganizationsroleofpenaltiespressuresandperceivedeffectiveness2009" target="userawarenessofsecuritycountermeasuresanditsimpactoninformationsystemsmisuseadeterrenceapproach2009" weight="8" />
+      <edge id="32" source="encouraginginformationsecuritybehaviorsinorganizationsroleofpenaltiespressuresandperceivedeffectiveness2009" target="anapplicationofdeterrencetheorytosoftwarepiracy2005" weight="1" />
+      <edge id="33" source="encouraginginformationsecuritybehaviorsinorganizationsroleofpenaltiespressuresandperceivedeffectiveness2009" target="anintegrativemodelofcomputerabusebasedonsocialcontrolandgeneraldeterrencetheories2004" weight="4" />
+      <edge id="34" source="encouraginginformationsecuritybehaviorsinorganizationsroleofpenaltiespressuresandperceivedeffectiveness2009" target="anintegrativestudyofinformationsystemssecurityeffectiveness2003" weight="1" />
+      <edge id="35" source="encouraginginformationsecuritybehaviorsinorganizationsroleofpenaltiespressuresandperceivedeffectiveness2009" target="preventiveanddeterrentcontrolsforsoftwarepiracy1997" weight="1" />
+      <edge id="36" source="encouraginginformationsecuritybehaviorsinorganizationsroleofpenaltiespressuresandperceivedeffectiveness2009" target="employeesbehaviortowardsissecuritypolicycompliance2007" weight="4" />
+      <edge id="37" source="encouraginginformationsecuritybehaviorsinorganizationsroleofpenaltiespressuresandperceivedeffectiveness2009" target="effectiveissecurityanempiricalstudy1990" weight="1" />
+      <edge id="38" source="examiningdigitalpiracyselfcontrolpunishmentandselfefficacy2009" target="protectionmotivationanddeterrenceaframeworkforsecuritypolicycomplianceinorganisations2009" weight="4" />
+      <edge id="39" source="examiningdigitalpiracyselfcontrolpunishmentandselfefficacy2009" target="userawarenessofsecuritycountermeasuresanditsimpactoninformationsystemsmisuseadeterrenceapproach2009" weight="4" />
+      <edge id="40" source="examiningdigitalpiracyselfcontrolpunishmentandselfefficacy2009" target="anapplicationofdeterrencetheorytosoftwarepiracy2005" weight="3" />
+      <edge id="41" source="examiningdigitalpiracyselfcontrolpunishmentandselfefficacy2009" target="anintegrativemodelofcomputerabusebasedonsocialcontrolandgeneraldeterrencetheories2004" weight="3" />
+      <edge id="42" source="examiningdigitalpiracyselfcontrolpunishmentandselfefficacy2009" target="anintegrativestudyofinformationsystemssecurityeffectiveness2003" weight="3" />
+      <edge id="43" source="examiningdigitalpiracyselfcontrolpunishmentandselfefficacy2009" target="preventiveanddeterrentcontrolsforsoftwarepiracy1997" weight="1" />
+      <edge id="44" source="examiningdigitalpiracyselfcontrolpunishmentandselfefficacy2009" target="employeesbehaviortowardsissecuritypolicycompliance2007" weight="3" />
+      <edge id="45" source="protectionmotivationanddeterrenceaframeworkforsecuritypolicycomplianceinorganisations2009" target="userawarenessofsecuritycountermeasuresanditsimpactoninformationsystemsmisuseadeterrenceapproach2009" weight="9" />
+      <edge id="46" source="protectionmotivationanddeterrenceaframeworkforsecuritypolicycomplianceinorganisations2009" target="anapplicationofdeterrencetheorytosoftwarepiracy2005" weight="1" />
+      <edge id="47" source="protectionmotivationanddeterrenceaframeworkforsecuritypolicycomplianceinorganisations2009" target="anintegrativemodelofcomputerabusebasedonsocialcontrolandgeneraldeterrencetheories2004" weight="4" />
+      <edge id="48" source="protectionmotivationanddeterrenceaframeworkforsecuritypolicycomplianceinorganisations2009" target="anintegrativestudyofinformationsystemssecurityeffectiveness2003" weight="4" />
+      <edge id="49" source="protectionmotivationanddeterrenceaframeworkforsecuritypolicycomplianceinorganisations2009" target="preventiveanddeterrentcontrolsforsoftwarepiracy1997" weight="2" />
+      <edge id="50" source="protectionmotivationanddeterrenceaframeworkforsecuritypolicycomplianceinorganisations2009" target="employeesbehaviortowardsissecuritypolicycompliance2007" weight="6" />
+      <edge id="51" source="protectionmotivationanddeterrenceaframeworkforsecuritypolicycomplianceinorganisations2009" target="effectiveissecurityanempiricalstudy1990" weight="1" />
+      <edge id="52" source="userawarenessofsecuritycountermeasuresanditsimpactoninformationsystemsmisuseadeterrenceapproach2009" target="anapplicationofdeterrencetheorytosoftwarepiracy2005" weight="4" />
+      <edge id="53" source="userawarenessofsecuritycountermeasuresanditsimpactoninformationsystemsmisuseadeterrenceapproach2009" target="anintegrativemodelofcomputerabusebasedonsocialcontrolandgeneraldeterrencetheories2004" weight="6" />
+      <edge id="54" source="userawarenessofsecuritycountermeasuresanditsimpactoninformationsystemsmisuseadeterrenceapproach2009" target="anintegrativestudyofinformationsystemssecurityeffectiveness2003" weight="6" />
+      <edge id="55" source="userawarenessofsecuritycountermeasuresanditsimpactoninformationsystemsmisuseadeterrenceapproach2009" target="preventiveanddeterrentcontrolsforsoftwarepiracy1997" weight="1" />
+      <edge id="56" source="userawarenessofsecuritycountermeasuresanditsimpactoninformationsystemsmisuseadeterrenceapproach2009" target="employeesbehaviortowardsissecuritypolicycompliance2007" weight="3" />
+      <edge id="57" source="userawarenessofsecuritycountermeasuresanditsimpactoninformationsystemsmisuseadeterrenceapproach2009" target="effectiveissecurityanempiricalstudy1990" weight="2" />
+      <edge id="58" source="anapplicationofdeterrencetheorytosoftwarepiracy2005" target="anintegrativemodelofcomputerabusebasedonsocialcontrolandgeneraldeterrencetheories2004" weight="1" />
+      <edge id="59" source="anapplicationofdeterrencetheorytosoftwarepiracy2005" target="anintegrativestudyofinformationsystemssecurityeffectiveness2003" weight="2" />
+      <edge id="60" source="anapplicationofdeterrencetheorytosoftwarepiracy2005" target="asociallearningtheoryanalysisofcomputercrimeamongcollegestudents1997" weight="1" />
+      <edge id="61" source="anapplicationofdeterrencetheorytosoftwarepiracy2005" target="preventiveanddeterrentcontrolsforsoftwarepiracy1997" weight="1" />
+      <edge id="62" source="anintegrativemodelofcomputerabusebasedonsocialcontrolandgeneraldeterrencetheories2004" target="anintegrativestudyofinformationsystemssecurityeffectiveness2003" weight="8" />
+      <edge id="63" source="anintegrativemodelofcomputerabusebasedonsocialcontrolandgeneraldeterrencetheories2004" target="preventiveanddeterrentcontrolsforsoftwarepiracy1997" weight="1" />
+      <edge id="64" source="anintegrativemodelofcomputerabusebasedonsocialcontrolandgeneraldeterrencetheories2004" target="employeesbehaviortowardsissecuritypolicycompliance2007" weight="3" />
+      <edge id="65" source="anintegrativemodelofcomputerabusebasedonsocialcontrolandgeneraldeterrencetheories2004" target="effectiveissecurityanempiricalstudy1990" weight="1" />
+      <edge id="66" source="anintegrativestudyofinformationsystemssecurityeffectiveness2003" target="preventiveanddeterrentcontrolsforsoftwarepiracy1997" weight="3" />
+      <edge id="67" source="anintegrativestudyofinformationsystemssecurityeffectiveness2003" target="employeesbehaviortowardsissecuritypolicycompliance2007" weight="2" />
+      <edge id="68" source="anintegrativestudyofinformationsystemssecurityeffectiveness2003" target="effectiveissecurityanempiricalstudy1990" weight="5" />
+      <edge id="69" source="preventiveanddeterrentcontrolsforsoftwarepiracy1997" target="employeesbehaviortowardsissecuritypolicycompliance2007" weight="1" />
+      <edge id="70" source="preventiveanddeterrentcontrolsforsoftwarepiracy1997" target="effectiveissecurityanempiricalstudy1990" weight="3" />
+      <edge id="71" source="employeesbehaviortowardsissecuritypolicycompliance2007" target="effectiveissecurityanempiricalstudy1990" weight="1" />
+    </edges>
+  </graph>
+</gexf>

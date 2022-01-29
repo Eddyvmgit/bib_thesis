@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.3</creator>
+      <lastmodified>28/01/2022</lastmodified>
+    </meta>
+    <nodes>
+      <node id="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" label="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" />
+      <node id="anexploratorystudyofmoralintensityregardingsoftwarepiracyofstudentsinthailand2003" label="anexploratorystudyofmoralintensityregardingsoftwarepiracyofstudentsinthailand2003" />
+      <node id="factorsaffectingsoftliftingintentionofcomputingstudentsanempiricalstudy2001" label="factorsaffectingsoftliftingintentionofcomputingstudentsanempiricalstudy2001" />
+      <node id="therelevanceofsoftwarerightsananthologyofthedivergenceofsociopoliticaldoctrines2001" label="therelevanceofsoftwarerightsananthologyofthedivergenceofsociopoliticaldoctrines2001" />
+      <node id="globalsoftwarepiracyyoucantgetbloodoutofaturnip2000" label="globalsoftwarepiracyyoucantgetbloodoutofaturnip2000" />
+      <node id="softwarepiracyaviewfromhongkong2000" label="softwarepiracyaviewfromhongkong2000" />
+      <node id="testinganethicaldecisionmakingtheorythecaseofsoftlifting1998" label="testinganethicaldecisionmakingtheorythecaseofsoftlifting1998" />
+      <node id="topurchaseortopiratesoftwareanempiricalstudy1997" label="topurchaseortopiratesoftwareanempiricalstudy1997" />
+      <node id="preventiveanddeterrentcontrolsforsoftwarepiracy1997" label="preventiveanddeterrentcontrolsforsoftwarepiracy1997" />
+      <node id="situationaldeterminantsofsoftwarepiracyanequitytheoryperspective1996" label="situationaldeterminantsofsoftwarepiracyanequitytheoryperspective1996" />
+      <node id="softliftingamodelofmotivatingfactors1994" label="softliftingamodelofmotivatingfactors1994" />
+      <node id="acomparativeexaminationofattitudestowardsoftwarepiracyamongbusinessprofessorsandexecutives1993" label="acomparativeexaminationofattitudestowardsoftwarepiracyamongbusinessprofessorsandexecutives1993" />
+      <node id="internationalsoftwarepiracy1992weisband" label="internationalsoftwarepiracy1992weisband" />
+      <node id="ethicalbeliefsofmisprofessionalsthefrequencyandopportunityforunethicalbehavior1990" label="ethicalbeliefsofmisprofessionalsthefrequencyandopportunityforunethicalbehavior1990" />
+      <node id="definingeducationalpolicyonsoftwareusageinthelightofcopyrightlaw1989" label="definingeducationalpolicyonsoftwareusageinthelightofcopyrightlaw1989" />
+      <node id="understandingdifferencesinethicalbeliefsandbehaviorstowardsoftwarecopyingtheeffectsoforganizationculture1999" label="understandingdifferencesinethicalbeliefsandbehaviorstowardsoftwarecopyingtheeffectsoforganizationculture1999" />
+      <node id="theeffectofdemographicfactorsonattitudestowardssoftwarepiracy1991" label="theeffectofdemographicfactorsonattitudestowardssoftwarepiracy1991" />
+    </nodes>
+    <edges>
+      <edge id="0" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="anexploratorystudyofmoralintensityregardingsoftwarepiracyofstudentsinthailand2003" weight="6" />
+      <edge id="1" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="factorsaffectingsoftliftingintentionofcomputingstudentsanempiricalstudy2001" weight="11" />
+      <edge id="2" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="globalsoftwarepiracyyoucantgetbloodoutofaturnip2000" weight="2" />
+      <edge id="3" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="softwarepiracyaviewfromhongkong2000" weight="4" />
+      <edge id="4" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="testinganethicaldecisionmakingtheorythecaseofsoftlifting1998" weight="5" />
+      <edge id="5" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="topurchaseortopiratesoftwareanempiricalstudy1997" weight="4" />
+      <edge id="6" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="preventiveanddeterrentcontrolsforsoftwarepiracy1997" weight="4" />
+      <edge id="7" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="situationaldeterminantsofsoftwarepiracyanequitytheoryperspective1996" weight="5" />
+      <edge id="8" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="softliftingamodelofmotivatingfactors1994" weight="5" />
+      <edge id="9" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="acomparativeexaminationofattitudestowardsoftwarepiracyamongbusinessprofessorsandexecutives1993" weight="3" />
+      <edge id="10" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="ethicalbeliefsofmisprofessionalsthefrequencyandopportunityforunethicalbehavior1990" weight="1" />
+      <edge id="11" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="understandingdifferencesinethicalbeliefsandbehaviorstowardsoftwarecopyingtheeffectsoforganizationculture1999" weight="3" />
+      <edge id="12" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="theeffectofdemographicfactorsonattitudestowardssoftwarepiracy1991" weight="1" />
+      <edge id="13" source="anexploratorystudyofmoralintensityregardingsoftwarepiracyofstudentsinthailand2003" target="factorsaffectingsoftliftingintentionofcomputingstudentsanempiricalstudy2001" weight="3" />
+      <edge id="14" source="anexploratorystudyofmoralintensityregardingsoftwarepiracyofstudentsinthailand2003" target="softwarepiracyaviewfromhongkong2000" weight="2" />
+      <edge id="15" source="anexploratorystudyofmoralintensityregardingsoftwarepiracyofstudentsinthailand2003" target="testinganethicaldecisionmakingtheorythecaseofsoftlifting1998" weight="2" />
+      <edge id="16" source="anexploratorystudyofmoralintensityregardingsoftwarepiracyofstudentsinthailand2003" target="topurchaseortopiratesoftwareanempiricalstudy1997" weight="1" />
+      <edge id="17" source="anexploratorystudyofmoralintensityregardingsoftwarepiracyofstudentsinthailand2003" target="preventiveanddeterrentcontrolsforsoftwarepiracy1997" weight="1" />
+      <edge id="18" source="anexploratorystudyofmoralintensityregardingsoftwarepiracyofstudentsinthailand2003" target="softliftingamodelofmotivatingfactors1994" weight="1" />
+      <edge id="19" source="anexploratorystudyofmoralintensityregardingsoftwarepiracyofstudentsinthailand2003" target="understandingdifferencesinethicalbeliefsandbehaviorstowardsoftwarecopyingtheeffectsoforganizationculture1999" weight="1" />
+      <edge id="20" source="factorsaffectingsoftliftingintentionofcomputingstudentsanempiricalstudy2001" target="therelevanceofsoftwarerightsananthologyofthedivergenceofsociopoliticaldoctrines2001" weight="1" />
+      <edge id="21" source="factorsaffectingsoftliftingintentionofcomputingstudentsanempiricalstudy2001" target="softwarepiracyaviewfromhongkong2000" weight="1" />
+      <edge id="22" source="factorsaffectingsoftliftingintentionofcomputingstudentsanempiricalstudy2001" target="testinganethicaldecisionmakingtheorythecaseofsoftlifting1998" weight="6" />
+      <edge id="23" source="factorsaffectingsoftliftingintentionofcomputingstudentsanempiricalstudy2001" target="topurchaseortopiratesoftwareanempiricalstudy1997" weight="3" />
+      <edge id="24" source="factorsaffectingsoftliftingintentionofcomputingstudentsanempiricalstudy2001" target="preventiveanddeterrentcontrolsforsoftwarepiracy1997" weight="2" />
+      <edge id="25" source="factorsaffectingsoftliftingintentionofcomputingstudentsanempiricalstudy2001" target="softliftingamodelofmotivatingfactors1994" weight="4" />
+      <edge id="26" source="factorsaffectingsoftliftingintentionofcomputingstudentsanempiricalstudy2001" target="acomparativeexaminationofattitudestowardsoftwarepiracyamongbusinessprofessorsandexecutives1993" weight="1" />
+      <edge id="27" source="factorsaffectingsoftliftingintentionofcomputingstudentsanempiricalstudy2001" target="understandingdifferencesinethicalbeliefsandbehaviorstowardsoftwarecopyingtheeffectsoforganizationculture1999" weight="1" />
+      <edge id="28" source="therelevanceofsoftwarerightsananthologyofthedivergenceofsociopoliticaldoctrines2001" target="testinganethicaldecisionmakingtheorythecaseofsoftlifting1998" weight="1" />
+      <edge id="29" source="therelevanceofsoftwarerightsananthologyofthedivergenceofsociopoliticaldoctrines2001" target="softliftingamodelofmotivatingfactors1994" weight="1" />
+      <edge id="30" source="therelevanceofsoftwarerightsananthologyofthedivergenceofsociopoliticaldoctrines2001" target="acomparativeexaminationofattitudestowardsoftwarepiracyamongbusinessprofessorsandexecutives1993" weight="1" />
+      <edge id="31" source="softwarepiracyaviewfromhongkong2000" target="testinganethicaldecisionmakingtheorythecaseofsoftlifting1998" weight="1" />
+      <edge id="32" source="softwarepiracyaviewfromhongkong2000" target="topurchaseortopiratesoftwareanempiricalstudy1997" weight="2" />
+      <edge id="33" source="softwarepiracyaviewfromhongkong2000" target="preventiveanddeterrentcontrolsforsoftwarepiracy1997" weight="1" />
+      <edge id="34" source="softwarepiracyaviewfromhongkong2000" target="situationaldeterminantsofsoftwarepiracyanequitytheoryperspective1996" weight="2" />
+      <edge id="35" source="softwarepiracyaviewfromhongkong2000" target="softliftingamodelofmotivatingfactors1994" weight="1" />
+      <edge id="36" source="softwarepiracyaviewfromhongkong2000" target="understandingdifferencesinethicalbeliefsandbehaviorstowardsoftwarecopyingtheeffectsoforganizationculture1999" weight="2" />
+      <edge id="37" source="testinganethicaldecisionmakingtheorythecaseofsoftlifting1998" target="topurchaseortopiratesoftwareanempiricalstudy1997" weight="2" />
+      <edge id="38" source="testinganethicaldecisionmakingtheorythecaseofsoftlifting1998" target="preventiveanddeterrentcontrolsforsoftwarepiracy1997" weight="1" />
+      <edge id="39" source="testinganethicaldecisionmakingtheorythecaseofsoftlifting1998" target="situationaldeterminantsofsoftwarepiracyanequitytheoryperspective1996" weight="4" />
+      <edge id="40" source="testinganethicaldecisionmakingtheorythecaseofsoftlifting1998" target="softliftingamodelofmotivatingfactors1994" weight="4" />
+      <edge id="41" source="testinganethicaldecisionmakingtheorythecaseofsoftlifting1998" target="acomparativeexaminationofattitudestowardsoftwarepiracyamongbusinessprofessorsandexecutives1993" weight="3" />
+      <edge id="42" source="testinganethicaldecisionmakingtheorythecaseofsoftlifting1998" target="ethicalbeliefsofmisprofessionalsthefrequencyandopportunityforunethicalbehavior1990" weight="3" />
+      <edge id="43" source="testinganethicaldecisionmakingtheorythecaseofsoftlifting1998" target="understandingdifferencesinethicalbeliefsandbehaviorstowardsoftwarecopyingtheeffectsoforganizationculture1999" weight="2" />
+      <edge id="44" source="topurchaseortopiratesoftwareanempiricalstudy1997" target="preventiveanddeterrentcontrolsforsoftwarepiracy1997" weight="2" />
+      <edge id="45" source="topurchaseortopiratesoftwareanempiricalstudy1997" target="situationaldeterminantsofsoftwarepiracyanequitytheoryperspective1996" weight="2" />
+      <edge id="46" source="topurchaseortopiratesoftwareanempiricalstudy1997" target="softliftingamodelofmotivatingfactors1994" weight="2" />
+      <edge id="47" source="topurchaseortopiratesoftwareanempiricalstudy1997" target="acomparativeexaminationofattitudestowardsoftwarepiracyamongbusinessprofessorsandexecutives1993" weight="1" />
+      <edge id="48" source="topurchaseortopiratesoftwareanempiricalstudy1997" target="internationalsoftwarepiracy1992weisband" weight="1" />
+      <edge id="49" source="topurchaseortopiratesoftwareanempiricalstudy1997" target="understandingdifferencesinethicalbeliefsandbehaviorstowardsoftwarecopyingtheeffectsoforganizationculture1999" weight="1" />
+      <edge id="50" source="preventiveanddeterrentcontrolsforsoftwarepiracy1997" target="situationaldeterminantsofsoftwarepiracyanequitytheoryperspective1996" weight="2" />
+      <edge id="51" source="preventiveanddeterrentcontrolsforsoftwarepiracy1997" target="softliftingamodelofmotivatingfactors1994" weight="6" />
+      <edge id="52" source="preventiveanddeterrentcontrolsforsoftwarepiracy1997" target="acomparativeexaminationofattitudestowardsoftwarepiracyamongbusinessprofessorsandexecutives1993" weight="1" />
+      <edge id="53" source="preventiveanddeterrentcontrolsforsoftwarepiracy1997" target="definingeducationalpolicyonsoftwareusageinthelightofcopyrightlaw1989" weight="1" />
+      <edge id="54" source="preventiveanddeterrentcontrolsforsoftwarepiracy1997" target="theeffectofdemographicfactorsonattitudestowardssoftwarepiracy1991" weight="1" />
+      <edge id="55" source="situationaldeterminantsofsoftwarepiracyanequitytheoryperspective1996" target="softliftingamodelofmotivatingfactors1994" weight="4" />
+      <edge id="56" source="situationaldeterminantsofsoftwarepiracyanequitytheoryperspective1996" target="acomparativeexaminationofattitudestowardsoftwarepiracyamongbusinessprofessorsandexecutives1993" weight="1" />
+      <edge id="57" source="situationaldeterminantsofsoftwarepiracyanequitytheoryperspective1996" target="understandingdifferencesinethicalbeliefsandbehaviorstowardsoftwarecopyingtheeffectsoforganizationculture1999" weight="1" />
+      <edge id="58" source="softliftingamodelofmotivatingfactors1994" target="acomparativeexaminationofattitudestowardsoftwarepiracyamongbusinessprofessorsandexecutives1993" weight="2" />
+      <edge id="59" source="softliftingamodelofmotivatingfactors1994" target="ethicalbeliefsofmisprofessionalsthefrequencyandopportunityforunethicalbehavior1990" weight="1" />
+      <edge id="60" source="acomparativeexaminationofattitudestowardsoftwarepiracyamongbusinessprofessorsandexecutives1993" target="ethicalbeliefsofmisprofessionalsthefrequencyandopportunityforunethicalbehavior1990" weight="2" />
+      <edge id="61" source="acomparativeexaminationofattitudestowardsoftwarepiracyamongbusinessprofessorsandexecutives1993" target="definingeducationalpolicyonsoftwareusageinthelightofcopyrightlaw1989" weight="1" />
+    </edges>
+  </graph>
+</gexf>
