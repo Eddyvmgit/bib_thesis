@@ -1,0 +1,1748 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns:viz="http://www.gexf.net/1.2draft/viz" version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="directed" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.3</creator>
+      <lastmodified>08/02/2022</lastmodified>
+    </meta>
+    <nodes>
+      <node id="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" label="factorsmotivatingsoftwarepiracyalongitudinalstudy2004">
+        <viz:color a="0" b="150" g="91" r="69" />
+        <viz:size value="30" />
+      </node>
+      <node id="softwarepiracytops1billion1999" label="softwarepiracytops1billion1999">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="topurchaseortopiratesoftwareanempiricalstudy1997" label="topurchaseortopiratesoftwareanempiricalstudy1997">
+        <viz:color a="0" b="150" g="91" r="69" />
+        <viz:size value="30" />
+      </node>
+      <node id="preventiveanddeterrentcontrolsforsoftwarepiracy1997" label="preventiveanddeterrentcontrolsforsoftwarepiracy1997">
+        <viz:color a="0" b="150" g="91" r="69" />
+        <viz:size value="30" />
+      </node>
+      <node id="internationalsoftwarepiracyanalysisofkeyissuesandimpacts1998" label="internationalsoftwarepiracyanalysisofkeyissuesandimpacts1998">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="thesoftwarepiracydilemmainpublicadministrationasurveyofuniversitysoftwarepolicyenforcement1994" label="thesoftwarepiracydilemmainpublicadministrationasurveyofuniversitysoftwarepolicyenforcement1994">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="towardaprofileofstudentsoftwarepiraters1996" label="towardaprofileofstudentsoftwarepiraters1996">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="softwarepiracyananalysisofprotectionstrategies1991" label="softwarepiracyananalysisofprotectionstrategies1991">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="situationaldeterminantsofsoftwarepiracyanequitytheoryperspective1996" label="situationaldeterminantsofsoftwarepiracyanequitytheoryperspective1996">
+        <viz:color a="0" b="150" g="91" r="69" />
+        <viz:size value="30" />
+      </node>
+      <node id="whypeoplecopysoftwareandcreatecomputerviruses1989" label="whypeoplecopysoftwareandcreatecomputerviruses1989">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="aquestionofethicsdevelopinginformationsystemethics1989" label="aquestionofethicsdevelopinginformationsystemethics1989">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="theeffectofdemographicfactorsonattitudestowardsoftwarepiracy1990" label="theeffectofdemographicfactorsonattitudestowardsoftwarepiracy1990">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="aviewofcomputerethicsbymanagersandstudents1991" label="aviewofcomputerethicsbymanagersandstudents1991">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="softwarepiracyisitrelatedtolevelofmoraljudgment1994" label="softwarepiracyisitrelatedtolevelofmoraljudgment1994">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="computerethicstheroleofpersonalinformalandformalcodes1996" label="computerethicstheroleofpersonalinformalandformalcodes1996">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="softliftingamodelofmotivatingfactors1994" label="softliftingamodelofmotivatingfactors1994">
+        <viz:color a="0" b="150" g="91" r="69" />
+        <viz:size value="30" />
+      </node>
+      <node id="theeffectofcodesofethicsandpersonaldenialofresponsibilityoncomputerabusejudgmentsandintentions1996" label="theeffectofcodesofethicsandpersonaldenialofresponsibilityoncomputerabusejudgmentsandintentions1996">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="evaluatingethicaldecisionmakingandcomputeruse1996" label="evaluatingethicaldecisionmakingandcomputeruse1996">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="softwarecopyrightinfringementsanexploratorystudyoftheeffectsofindividualandpeerbeliefs1997" label="softwarecopyrightinfringementsanexploratorystudyoftheeffectsofindividualandpeerbeliefs1997">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="modelingitethicsastudyinsituationalethics1998" label="modelingitethicsastudyinsituationalethics1998">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="anempiricalstudyofsoftwarepiracyandmoralintensityamonguniversitystudents2000" label="anempiricalstudyofsoftwarepiracyandmoralintensityamonguniversitystudents2000">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="thetheoryofplannedbehavior1991" label="thetheoryofplannedbehavior1991">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="valuesattitudesandinterpersonalbehavior1980" label="valuesattitudesandinterpersonalbehavior1980">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="personalcomputingtowardaconceptualmodelofutilization1991" label="personalcomputingtowardaconceptualmodelofutilization1991">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="influenceofexperienceonpersonalcomputerutilizationtestingaconceptualmodel1994" label="influenceofexperienceonpersonalcomputerutilizationtestingaconceptualmodel1994">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="apsychosocialmodelofsoftwarepiracythedevelopmentandtestofamodel1991" label="apsychosocialmodelofsoftwarepiracythedevelopmentandtestofamodel1991">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="developmentandvalidationofethicalcomputerselfefficacymeasurethecaseofsoftlifting2001" label="developmentandvalidationofethicalcomputerselfefficacymeasurethecaseofsoftlifting2001">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="intentionmodelbasedstudyofsoftwarepiracy1999" label="intentionmodelbasedstudyofsoftwarepiracy1999">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="ageneraltheoryofmarketingethics1986" label="ageneraltheoryofmarketingethics1986">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="understandingeisuseanempiricaltestofabehavioralmodel1992" label="understandingeisuseanempiricaltestofabehavioralmodel1992">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="thecopyrightfightmachrone1987" label="thecopyrightfightmachrone1987">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="acomparativeexaminationofattitudestowardsoftwarepiracyamongbusinessprofessorsandexecutives1993" label="acomparativeexaminationofattitudestowardsoftwarepiracyamongbusinessprofessorsandexecutives1993">
+        <viz:color a="0" b="150" g="91" r="69" />
+        <viz:size value="30" />
+      </node>
+      <node id="softwarepiracyandresponsibilitiesofeducationalinstitutions1990" label="softwarepiracyandresponsibilitiesofeducationalinstitutions1990">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="softwarepiracyandsoftwaresecuritymeasuresinbusinessschools1992" label="softwarepiracyandsoftwaresecuritymeasuresinbusinessschools1992">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="computerethicsandcomputerabuseastudyofswedishandcanadianuniversitydataprocessingstudents1990" label="computerethicsandcomputerabuseastudyofswedishandcanadianuniversitydataprocessingstudents1990">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="professionalethicsbusinessstudentsperceptions1991" label="professionalethicsbusinessstudentsperceptions1991">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="softwarepiracyaviewfromhongkong2000" label="softwarepiracyaviewfromhongkong2000">
+        <viz:color a="0" b="150" g="91" r="69" />
+        <viz:size value="30" />
+      </node>
+      <node id="extendingthetechnologyacceptancemodeltheinfluenceofperceiveduserresources2001" label="extendingthetechnologyacceptancemodeltheinfluenceofperceiveduserresources2001">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="introductiontothesecondgenerationofmultivariateanalysis1989" label="introductiontothesecondgenerationofmultivariateanalysis1989">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="applicationofsocialcognitivetheorytotrainingforcomputerskills1995" label="applicationofsocialcognitivetheorytotrainingforcomputerskills1995">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="issuesandopiniononstructuralequationmodeling1998" label="issuesandopiniononstructuralequationmodeling1998">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="theattitudeofmanagerstobetowardsoftwarepiracy1990" label="theattitudeofmanagerstobetowardsoftwarepiracy1990">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="softwarepiracyamongacademicsanempiricalstudyinbruneidarussalam2000" label="softwarepiracyamongacademicsanempiricalstudyinbruneidarussalam2000">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="discoveringanddiscipliningcomputerabuseinorganizationsafieldstudy1990" label="discoveringanddiscipliningcomputerabuseinorganizationsafieldstudy1990">
+        <viz:color a="0" b="150" g="91" r="69" />
+        <viz:size value="30" />
+      </node>
+      <node id="theeffectofpreventiveanddeterrentsoftwarepiracystrategiesonproducerprofits1992" label="theeffectofpreventiveanddeterrentsoftwarepiracystrategiesonproducerprofits1992">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="astudyofunauthorizedsoftwarecopyingamongpostsecondarystudentsinhongkong1990" label="astudyofunauthorizedsoftwarecopyingamongpostsecondarystudentsinhongkong1990">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="softwarepiracyattitudesoftertiarystudentsinaustralia1998" label="softwarepiracyattitudesoftertiarystudentsinaustralia1998">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="anexploratorystudyofmoralintensityregardingsoftwarepiracyofstudentsinthailand2003" label="anexploratorystudyofmoralintensityregardingsoftwarepiracyofstudentsinthailand2003">
+        <viz:color a="0" b="150" g="91" r="69" />
+        <viz:size value="30" />
+      </node>
+      <node id="softwarepiracyamongcomputingstudentsabruneianscenario1999" label="softwarepiracyamongcomputingstudentsabruneianscenario1999">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="themoralityofsoftwarepiracyacrossculturalanalysis1990" label="themoralityofsoftwarepiracyacrossculturalanalysis1990">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="acomparisonofexpertsandhightechstudentsethicalbeliefsincomputerrelatedsituations1993" label="acomparisonofexpertsandhightechstudentsethicalbeliefsincomputerrelatedsituations1993">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="wouldthesoftwarepolicefindyourcompanyguilty1994" label="wouldthesoftwarepolicefindyourcompanyguilty1994">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="informationethicsanempiricalinvestigationofkoreaandtheunitedstates1997" label="informationethicsanempiricalinvestigationofkoreaandtheunitedstates1997">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="stageandsequencethecognitivedevelopmentalapproachtosocialization1969" label="stageandsequencethecognitivedevelopmentalapproachtosocialization1969">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="ethicalviewsandbehaviorregardingsoftwareundergraduatebusinessstudentsvsmbastudents1996" label="ethicalviewsandbehaviorregardingsoftwareundergraduatebusinessstudentsvsmbastudents1996">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="factorsaffectingsoftliftingintentionofcomputingstudentsanempiricalstudy2001" label="factorsaffectingsoftliftingintentionofcomputingstudentsanempiricalstudy2001">
+        <viz:color a="0" b="150" g="91" r="69" />
+        <viz:size value="30" />
+      </node>
+      <node id="fourethicalissuesoftheinformationage1986" label="fourethicalissuesoftheinformationage1986">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="studycitessoftwareindustrygrowthpiracyproblems1993" label="studycitessoftwareindustrygrowthpiracyproblems1993">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="softwarepiracycosts114bavailable1998" label="softwarepiracycosts114bavailable1998">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="whysoftwarecopyprotectionisnecessary1996" label="whysoftwarecopyprotectionisnecessary1996">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="developingapredictivemodelofsoftwarepiracybehaviouranempiricalstudy1996" label="developingapredictivemodelofsoftwarepiracybehaviouranempiricalstudy1996">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="testinganethicaldecisionmakingtheorythecaseofsoftlifting1998" label="testinganethicaldecisionmakingtheorythecaseofsoftlifting1998">
+        <viz:color a="0" b="150" g="91" r="69" />
+        <viz:size value="30" />
+      </node>
+      <node id="takingstockcanthetheoryofreasonedactionexplainunethicalconduct1989" label="takingstockcanthetheoryofreasonedactionexplainunethicalconduct1989">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="factorsinfluencingsoftwarepiracyimplicationsforaccountants1991" label="factorsinfluencingsoftwarepiracyimplicationsforaccountants1991">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="computercrimeriskmanagementandcomputersecurity1985" label="computercrimeriskmanagementandcomputersecurity1985">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="genderrolescomputerattitudesanddyadiccomputerinteractionperformanceincollegestudents1993" label="genderrolescomputerattitudesanddyadiccomputerinteractionperformanceincollegestudents1993">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="perceptionsofinitiatoryandretaliatorycheatingbehaviour1984" label="perceptionsofinitiatoryandretaliatorycheatingbehaviour1984">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="moralobligationandattitudestheirrelationtobehavioralintentions1983" label="moralobligationandattitudestheirrelationtobehavioralintentions1983">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="aparadigmfordevelopingbettermeasuresofmarketingconstructs1979" label="aparadigmfordevelopingbettermeasuresofmarketingconstructs1979">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="informationtechnologyandorganizationalchangecausalstructureintheoryandresearch1988" label="informationtechnologyandorganizationalchangecausalstructureintheoryandresearch1988">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="computeranxietyandattitudestowardsmicrocomputeruse1990" label="computeranxietyandattitudestowardsmicrocomputeruse1990">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="therelevanceofsoftwarerightsananthologyofthedivergenceofsociopoliticaldoctrines2001" label="therelevanceofsoftwarerightsananthologyofthedivergenceofsociopoliticaldoctrines2001">
+        <viz:color a="0" b="150" g="91" r="69" />
+        <viz:size value="30" />
+      </node>
+      <node id="informationethicsonthephilosophicalfoundationofcomputerethics1999" label="informationethicsonthephilosophicalfoundationofcomputerethics1999">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="someconfusionsaboutsubjectivityhare1976" label="someconfusionsaboutsubjectivityhare1976">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="foundationalismandcoherentismhare1999" label="foundationalismandcoherentismhare1999">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="lucianofloridininformaatioetiikkajasensoveltaminenkäytäntöön1999" label="lucianofloridininformaatioetiikkajasensoveltaminenkäytäntöön1999">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="thenewclassificationofresearchapproaches1997" label="thenewclassificationofresearchapproaches1997">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="thechangingrolesofpatentandcopyrightprotectionforsoftwareandcommunicationtechnology1998" label="thechangingrolesofpatentandcopyrightprotectionforsoftwareandcommunicationtechnology1998">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="moralfoundationsofintellectualpropertyrights1995" label="moralfoundationsofintellectualpropertyrights1995">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="whatiscomputerethicsmoor1985" label="whatiscomputerethicsmoor1985">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="shouldicopymyneighborssoftware1995" label="shouldicopymyneighborssoftware1995">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="philosophyofscienceapersonalreport1957" label="philosophyofscienceapersonalreport1957">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="selectedlegalissuesrelatedtointernetuse1997" label="selectedlegalissuesrelatedtointernetuse1997">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="themoralisticdimensionsofunauthorisedcopyingofsoftwareselectedissues1998" label="themoralisticdimensionsofunauthorisedcopyingofsoftwareselectedissues1998">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="ownershipofcomputersoftwaresnapper1995" label="ownershipofcomputersoftwaresnapper1995">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="whysoftwareshouldbefree1995" label="whysoftwareshouldbefree1995">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="thegnumanifestostallman1997" label="thegnumanifestostallman1997">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="intellectualpropertyrightsandcomputersoftware1997" label="intellectualpropertyrightsandcomputersoftware1997">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="globalsoftwarepiracyyoucantgetbloodoutofaturnip2000" label="globalsoftwarepiracyyoucantgetbloodoutofaturnip2000">
+        <viz:color a="0" b="150" g="91" r="69" />
+        <viz:size value="30" />
+      </node>
+      <node id="internationaldimensionsoftheproductivityparadox1998" label="internationaldimensionsoftheproductivityparadox1998">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="pricediscriminationpersonaluseandpiracycopyrightprotectionofdigitalworks1997" label="pricediscriminationpersonaluseandpiracycopyrightprotectionofdigitalworks1997">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="ethicaldecisionmakingbyindividualsinorganizationsanissuecontingentmodel1991" label="ethicaldecisionmakingbyindividualsinorganizationsanissuecontingentmodel1991">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="howmenandwomenviewethics1998" label="howmenandwomenviewethics1998">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="scenariosinbusinessethicsresearchreviewcriticalassessmentandrecommendations1992" label="scenariosinbusinessethicsresearchreviewcriticalassessmentandrecommendations1992">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="usingthenewacmcodeofethicsindecisionmaking1993" label="usingthenewacmcodeofethicsindecisionmaking1993">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="anexaminationofgendereffectsoncareersuccessofinformationsystemsemployees1994" label="anexaminationofgendereffectsoncareersuccessofinformationsystemsemployees1994">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="paramedicethicsforcomputerprofessionals1992" label="paramedicethicsforcomputerprofessionals1992">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="preparingisstudentstodealwithethicalissues1989" label="preparingisstudentstodealwithethicalissues1989">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="acontingencyframeworkforunderstandingethicaldecisionmakinginmarketing1985" label="acontingencyframeworkforunderstandingethicaldecisionmakinginmarketing1985">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="ethicaldecisionmakingareviewoftheempiricalliterature1994" label="ethicaldecisionmakingareviewoftheempiricalliterature1994">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="theanomalyofotherdirectednesswhennormallyethicalispersonnelareunethical1995" label="theanomalyofotherdirectednesswhennormallyethicalispersonnelareunethical1995">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="culturesandorganizationssoftwareofthemind1991" label="culturesandorganizationssoftwareofthemind1991">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="computingconsequencesaframeworkforteachingethicalcomputing1995" label="computingconsequencesaframeworkforteachingethicalcomputing1995">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="beyondoutlawshackersandpiratesethicalissuesintheworkofinformationandcomputerscienceprofessionals1996" label="beyondoutlawshackersandpiratesethicalissuesintheworkofinformationandcomputerscienceprofessionals1996">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="ethicalconceptsandinformationtechnology1995" label="ethicalconceptsandinformationtechnology1995">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="identifyingandaddressingretailsalespeoplesethicalproblemsamethodandapplication1983" label="identifyingandaddressingretailsalespeoplesethicalproblemsamethodandapplication1983">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="computerprofessionalsmoralautonomyandacodeofethics1992" label="computerprofessionalsmoralautonomyandacodeofethics1992">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="ethicstoinformationtechnologyissues1995" label="ethicstoinformationtechnologyissues1995">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="anempiricalinvestigationofageneraltheoryofmarketingethics1990" label="anempiricalinvestigationofageneraltheoryofmarketingethics1990">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="marketingethicsareviewwithimplicationsformanagerseducatorsandresearchers1981" label="marketingethicsareviewwithimplicationsformanagerseducatorsandresearchers1981">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="ethicalstandardsforinformationsystemsprofessionalsacaseforaunifiedcode1992" label="ethicalstandardsforinformationsystemsprofessionalsacaseforaunifiedcode1992">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="ethicalconflictsininformationandcomputerscience1990" label="ethicalconflictsininformationandcomputerscience1990">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="digitalmediaandthelaw1991" label="digitalmediaandthelaw1991">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="computerprogramsandcopyrightsfairusedoctrine1993" label="computerprogramsandcopyrightsfairusedoctrine1993">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="copyrightsfairusedoctrineanddigitaldata1994" label="copyrightsfairusedoctrineanddigitaldata1994">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="researchnoteselectedfactorsinfluencingmarketersdeontologicalnorms1991" label="researchnoteselectedfactorsinfluencingmarketersdeontologicalnorms1991">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="keyinformationliabilityissuesfacingmanagerssoftwarepiracyproprietarydatabasesandindividualrightstoprivacy1990" label="keyinformationliabilityissuesfacingmanagerssoftwarepiracyproprietarydatabasesandindividualrightstoprivacy1990">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="ethicaldecisionmakinginorganizationsapersonsituationinteractionistmodel1986" label="ethicaldecisionmakinginorganizationsapersonsituationinteractionistmodel1986">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="ethicalbeliefsofmisprofessionalsthefrequencyandopportunityforunethicalbehavior1990" label="ethicalbeliefsofmisprofessionalsthefrequencyandopportunityforunethicalbehavior1990">
+        <viz:color a="0" b="150" g="91" r="69" />
+        <viz:size value="30" />
+      </node>
+      <node id="thegeneraltheoryofmarketingethicsapartialtestofthemodel1990" label="thegeneraltheoryofmarketingethicsapartialtestofthemodel1990">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="personalcomputingethicsbeliefsandbehaviour1993" label="personalcomputingethicsbeliefsandbehaviour1993">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="determinantsofbehaviortowardsethicalissuesinpersonalcomputing1993" label="determinantsofbehaviortowardsethicalissuesinpersonalcomputing1993">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="stalkingasiansoftwarepiratesgwynne1992" label="stalkingasiansoftwarepiratesgwynne1992">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="theraponsoftwarepiracy1993" label="theraponsoftwarepiracy1993">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="freezeitsthecyberfuzz1994" label="freezeitsthecyberfuzz1994">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="optimalstrategicpricingofreproducibleconsumerproducts1988" label="optimalstrategicpricingofreproducibleconsumerproducts1988">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="softwareandthelawpallatto1986" label="softwareandthelawpallatto1986">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="piratesinthedockparry1991" label="piratesinthedockparry1991">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="knowledgeandattitudesofmanagementstudentstowardsoftwarepiracy1992" label="knowledgeandattitudesofmanagementstudentstowardsoftwarepiracy1992">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="businessfacultymembersperceptionsofunauthorizedsoftwarecopying1988" label="businessfacultymembersperceptionsofunauthorizedsoftwarecopying1988">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="spainvestigatesreportsoframpantpiracyontheinternet1993" label="spainvestigatesreportsoframpantpiracyontheinternet1993">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="theupsideofsoftwarepiracy1990" label="theupsideofsoftwarepiracy1990">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="thedeclineofcopyprotection1987" label="thedeclineofcopyprotection1987">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="softwarepublishingandtheeconomicimpactofcopying1987" label="softwarepublishingandtheeconomicimpactofcopying1987">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="privatecopyingappropriabilityandoptimalcopyingroyalties1989" label="privatecopyingappropriabilityandoptimalcopyingroyalties1989">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="introductionblumstein1978" label="introductionblumstein1978">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="abehavioralmodelofethicalandunethicaldecisionmaking1987" label="abehavioralmodelofethicalandunethicaldecisionmaking1987">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="aneconomictheoryofclubs1965" label="aneconomictheoryofclubs1965">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="onyourhonorsoftwarefirmsremovecopyprotectiondevices1986" label="onyourhonorsoftwarefirmsremovecopyprotectiondevices1986">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="participationinillegitimateactivitiesatheoreticalandempiricalinvestigation1973" label="participationinillegitimateactivitiesatheoreticalandempiricalinvestigation1973">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="nabbingthepiratesofthecyberspacewillthelatestcrackdownsmakeadentinglobalproblemsofthelegalsoftwareduplication1994" label="nabbingthepiratesofthecyberspacewillthelatestcrackdownsmakeadentinglobalproblemsofthelegalsoftwareduplication1994">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="testinglimitsofsoftwarecopyright1989" label="testinglimitsofsoftwarecopyright1989">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="spaissuesgraphicwarningavailable1991" label="spaissuesgraphicwarningavailable1991">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="usersmusttakeresponsibilitytocontroltheillegalcopyingofsoftware1987" label="usersmusttakeresponsibilitytocontroltheillegalcopyingofsoftware1987">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="prospectsforinferenceondeterrencethroughempiricalanalysisofindividualcriminalbehavior1978" label="prospectsforinferenceondeterrencethroughempiricalanalysisofindividualcriminalbehavior1978">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="crackdownonsoftwarepiratesmason1990" label="crackdownonsoftwarepiratesmason1990">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="softwarepiracytheproblems1987" label="softwarepiracytheproblems1987">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="vendorscometogethertoformcaast1991" label="vendorscometogethertoformcaast1991">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="economicsandethicsreilly1990" label="economicsandethicsreilly1990">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="curbingsoftwarepiratesresnick1993" label="curbingsoftwarepiratesresnick1993">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="socioeconomicstatusandperceptionsofpersonalarrestprobabilities1982" label="socioeconomicstatusandperceptionsofpersonalarrestprobabilities1982">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="correlatesofcomputermisusedatafromaselfreportingsample1990" label="correlatesofcomputermisusedatafromaselfreportingsample1990">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="onlegalsanctionsschwartz1967" label="onlegalsanctionsschwartz1967">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="acomparativestudyofunauthorizedsoftwarecopyinginformationsystemsfacultymembersvspracticingmanagersperceptions1991" label="acomparativestudyofunauthorizedsoftwarecopyinginformationsystemsfacultymembersvspracticingmanagersperceptions1991">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="effectiveissecurityanempiricalstudy1990" label="effectiveissecurityanempiricalstudy1990">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="adapsobattlesmicrosoftwarepirates1985" label="adapsobattlesmicrosoftwarepirates1985">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="perceptualresearchongeneraldeterrenceacriticalreview1986" label="perceptualresearchongeneraldeterrenceacriticalreview1986">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="ethicalattitudesofstudentsandbusinessprofessionalsastudyofmoralreasoning1988" label="ethicalattitudesofstudentsandbusinessprofessionalsastudyofmoralreasoning1988">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="collegestudentsbelievepiracyisacceptable1989" label="collegestudentsbelievepiracyisacceptable1989">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="softwarepiracyandsoftwaresecurityinbusinessschoolsanethicalperspective1991" label="softwarepiracyandsoftwaresecurityinbusinessschoolsanethicalperspective1991">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="legalandethicalissuesofsoftwarepiracy1992" label="legalandethicalissuesofsoftwarepiracy1992">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="themeasurementoffairnessorequityperceptionsofmanagementinformationsystemsusers1989" label="themeasurementoffairnessorequityperceptionsofmanagementinformationsystemsusers1989">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="aninvestigationofequityasadeterminantofuserinformationsatisfaction1990" label="aninvestigationofequityasadeterminantofuserinformationsatisfaction1990">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="equityequalitypowerandconflict1991" label="equityequalitypowerandconflict1991">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="theequitysensitivityconstructpotentialimplicationsforworkerperformance1989" label="theequitysensitivityconstructpotentialimplicationsforworkerperformance1989">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="practicingmanagersperceptionattitudestowardsillegalsoftwarecopying1989" label="practicingmanagersperceptionattitudestowardsillegalsoftwarecopying1989">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="softwareandethicalsoftnessstrikwerda1992" label="softwareandethicalsoftnessstrikwerda1992">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="newdirectionsinequityresearch1973" label="newdirectionsinequityresearch1973">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="computerethicsandyearsofcomputeruse1993" label="computerethicsandyearsofcomputeruse1993">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="attitudebehaviorrelationsatheoreticalanalysisandreviewofempiricalresearch1977" label="attitudebehaviorrelationsatheoreticalanalysisandreviewofempiricalresearch1977">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="smrforumaresponsiblefutureanaddresstothecomputerindustry1984" label="smrforumaresponsiblefutureanaddresstothecomputerindustry1984">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="educationforthemoraldevelopmentofmanagerskohlbergsstagesofmoraldevelopmentandintegrativeeducation1987" label="educationforthemoraldevelopmentofmanagerskohlbergsstagesofmoraldevelopmentandintegrativeeducation1987">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="teachingethicsintheinformationsciencescurricula1982" label="teachingethicsintheinformationsciencescurricula1982">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="canweendsoftwarepiracy1987" label="canweendsoftwarepiracy1987">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="businessethicssocialresponsibilityandbusinessstudentsanempiricalcomparisonofclarksstudy1980" label="businessethicssocialresponsibilityandbusinessstudentsanempiricalcomparisonofclarksstudy1980">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="howethicalarebusinessmenbaumhart1961" label="howethicalarebusinessmenbaumhart1961">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="computerethicsanantidotetodespair1987" label="computerethicsanantidotetodespair1987">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="rulesformakingexceptionstorules1987" label="rulesformakingexceptionstorules1987">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="theethicsoforganizationalpolitics1981" label="theethicsoforganizationalpolitics1981">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="theapprovalmotivecrowne1964" label="theapprovalmotivecrowne1964">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="lowmarksforexecutivehonesty1985" label="lowmarksforexecutivehonesty1985">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="softwarepiracyisyourcompanyliable1985" label="softwarepiracyisyourcompanyliable1985">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="linkingmanagementbehaviortoethicalphilosophyanempiricalinvestigation1984" label="linkingmanagementbehaviortoethicalphilosophyanempiricalinvestigation1984">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="teachingbusinessethicsisthereagapbetweenrhetoricandreality1987" label="teachingbusinessethicsisthereagapbetweenrhetoricandreality1987">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="gallupopinionindexavailable1985" label="gallupopinionindexavailable1985">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="businesscurriculumandethicsstudentattitudesandbehavior1988" label="businesscurriculumandethicsstudentattitudesandbehavior1988">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="manzidefendslotusfighttoprotect123copyright1990" label="manzidefendslotusfighttoprotect123copyright1990">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="thestructuringoforganizationsmintzberg1979" label="thestructuringoforganizationsmintzberg1979">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="microcomputertechnologyinschoolsofbusiness1987" label="microcomputertechnologyinschoolsofbusiness1987">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="thedisktakerssilburt1987" label="thedisktakerssilburt1987">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="caughtintheactsmiddy1985" label="caughtintheactsmiddy1985">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="businessethicsandsocialresponsibilitytheresponseofpresentandfuturemanagers1984" label="businessethicsandsocialresponsibilitytheresponseofpresentandfuturemanagers1984">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="softwareleasingexpectedtoboom1989" label="softwareleasingexpectedtoboom1989">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="rolesetconfigurationandopportunityaspredictorsofunethicalbehaviorinorganizations1982" label="rolesetconfigurationandopportunityaspredictorsofunethicalbehaviorinorganizations1982">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="predictingunethicalbehavioramongmarketingpractitioners1979" label="predictingunethicalbehavioramongmarketingpractitioners1979">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="internationalsoftwarepiracyweisband1992" label="internationalsoftwarepiracyweisband1992">
+        <viz:color a="0" b="150" g="91" r="69" />
+        <viz:size value="30" />
+      </node>
+      <node id="fakewindowsersatzdosangryunclesam1992" label="fakewindowsersatzdosangryunclesam1992">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="piracyofintellectualpropertyhoffman1990" label="piracyofintellectualpropertyhoffman1990">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="whosebrightideamccarroll1991" label="whosebrightideamccarroll1991">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="testimonybeforethehousesubcommitteeoncourts1990" label="testimonybeforethehousesubcommitteeoncourts1990">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="theberneconventionabadideawhosetimehascome1988" label="theberneconventionabadideawhosetimehascome1988">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="istheethicsofbusinesschanging1977" label="istheethicsofbusinesschanging1977">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="managingthedecisionsciencetechnologyacaseforethicalanalysis1981" label="managingthedecisionsciencetechnologyacaseforethicalanalysis1981">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="ethicsandmarketingmanagementanempiricalexamination1985" label="ethicsandmarketingmanagementanempiricalexamination1985">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="definingeducationalpolicyonsoftwareusageinthelightofcopyrightlaw1989" label="definingeducationalpolicyonsoftwareusageinthelightofcopyrightlaw1989">
+        <viz:color a="0" b="150" g="91" r="69" />
+        <viz:size value="30" />
+      </node>
+      <node id="combatingsoftwarepiracyastatutoryproposaltostrengthensoftwarecopyright1985" label="combatingsoftwarepiracyastatutoryproposaltostrengthensoftwarecopyright1985">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="theconstitutionoftheunitedstatesofamerica1988" label="theconstitutionoftheunitedstatesofamerica1988">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="computerlawaprimeronthelawofsoftwareprotection1986" label="computerlawaprimeronthelawofsoftwareprotection1986">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="whateducatorsshouldknowaboutcopyright1986" label="whateducatorsshouldknowaboutcopyright1986">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="protectionofmassmarketedsoftwareinthewaningdaysofshrinkwraplicenses1988" label="protectionofmassmarketedsoftwareinthewaningdaysofshrinkwraplicenses1988">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="copyingmassmarketedsoftwaresterne1985" label="copyingmassmarketedsoftwaresterne1985">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="thoushaltnotdupeavailable1984" label="thoushaltnotdupeavailable1984">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="softwarepricingandcopyrightenforcementprivateprofitvisàvissocialwelfare1999" label="softwarepricingandcopyrightenforcementprivateprofitvisàvissocialwelfare1999">
+        <viz:color a="0" b="150" g="91" r="69" />
+        <viz:size value="30" />
+      </node>
+      <node id="topurchaseorpiratesoftwareanempiricalstudy1997" label="topurchaseorpiratesoftwareanempiricalstudy1997">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="copyingandindirectappropriabilityphotocopyingofjournals1985" label="copyingandindirectappropriabilityphotocopyingofjournals1985">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="durabilitymarketstructureandnewusedgoodsmodels1982" label="durabilitymarketstructureandnewusedgoodsmodels1982">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="theeffectsofincreasedcopyrightprotectionananalyticapproach1984" label="theeffectsofincreasedcopyrightprotectionananalyticapproach1984">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="economiceffectsofhomecopying1988" label="economiceffectsofhomecopying1988">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="thewelfareimplicationsofunauthorizedreproductionofintellectualpropertyinthepresenceofnetworkexternalities1994" label="thewelfareimplicationsofunauthorizedreproductionofintellectualpropertyinthepresenceofnetworkexternalities1994">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="buyingrentingandsharinginformationgoods1999" label="buyingrentingandsharinginformationgoods1999">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="understandingdifferencesinethicalbeliefsandbehaviorstowardsoftwarecopyingtheeffectsoforganizationculture1999" label="understandingdifferencesinethicalbeliefsandbehaviorstowardsoftwarecopyingtheeffectsoforganizationculture1999">
+        <viz:color a="0" b="150" g="91" r="69" />
+        <viz:size value="30" />
+      </node>
+      <node id="fromintentionstoactionsatheoryofplannedbehavior1985" label="fromintentionstoactionsatheoryofplannedbehavior1985">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="understandingattitudesandpredictingsocialbehavior1980" label="understandingattitudesandpredictingsocialbehavior1980">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="theinvisiblebureaucracytheunconsciousinorganizationalproblemsolving1987" label="theinvisiblebureaucracytheunconsciousinorganizationalproblemsolving1987">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="brownbagvssymanteccorp1992" label="brownbagvssymanteccorp1992">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="didyouknowbusiness1997" label="didyouknowbusiness1997">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="factorsinfluencingsolwarepiracyimplicationsforaccountants1991" label="factorsinfluencingsolwarepiracyimplicationsforaccountants1991">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="forwardofcashmathewsmstrategicinterventionsinorganizationsresolvingethicaldilemmas1988" label="forwardofcashmathewsmstrategicinterventionsinorganizationsresolvingethicaldilemmas1988">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="corporateethicsandcrimeclinard1983" label="corporateethicsandcrimeclinard1983">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="corporateculturestheritesandritualsofcorporatelijb1982" label="corporateculturestheritesandritualsofcorporatelijb1982">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="dimensionsofnationalcultureandeffectiveleadershippatternshofstederevisited1988" label="dimensionsofnationalcultureandeffectiveleadershippatternshofstederevisited1988">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="piracygarber1996" label="piracygarber1996">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="towardsanethicaldimensionofdecisionmakinginorganizations1996" label="towardsanethicaldimensionofdecisionmakinginorganizations1996">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="acomparisonofisethicsattitudesamongcollegestudents1995" label="acomparisonofisethicsattitudesamongcollegestudents1995">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="culturesandorganizationssoftwareofthemind1997" label="culturesandorganizationssoftwareofthemind1997">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="culturesconsequencesinternationaldifferencesinworkrelatedvalues1984" label="culturesconsequencesinternationaldifferencesinworkrelatedvalues1984">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="moralmazestheworldofcorporatemanagers1990" label="moralmazestheworldofcorporatemanagers1990">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="essentialsofmanagementinformationsystems1995" label="essentialsofmanagementinformationsystems1995">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="isthisanywaytoruncyberspacewhythehackerethosisbadforthenet1996" label="isthisanywaytoruncyberspacewhythehackerethosisbadforthenet1996">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="softwarepiracyandcomputerusingprofessionalsasurvey1997" label="softwarepiracyandcomputerusingprofessionalsasurvey1997">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="organizationcultureschein1990" label="organizationcultureschein1990">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="organizationalcultureandleadershipschein1985" label="organizationalcultureandleadershipschein1985">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="itsnotreallytheftpersonalandworkplaceethicsthatenablesoftwarepiracy1998" label="itsnotreallytheftpersonalandworkplaceethicsthatenablesoftwarepiracy1998">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="towardaprofileofstudentsowarepiraters1996" label="towardaprofileofstudentsowarepiraters1996">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="approachestoorganizationalcultureandethics1993" label="approachestoorganizationalcultureandethics1993">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="theeffectofdemographicfactorsonattitudestowardsoftwarepiracy1991" label="theeffectofdemographicfactorsonattitudestowardsoftwarepiracy1991">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="masculinityandfemininitytheirpsychologicaldimensionscorrelatesandantecedents1978" label="masculinityandfemininitytheirpsychologicaldimensionscorrelatesandantecedents1978">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="developmentofseriousandviolentoffendingcareers1998" label="developmentofseriousandviolentoffendingcareers1998">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="theorganizationalbasesofethicalworkclimates1988" label="theorganizationalbasesofethicalworkclimates1988">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="studiesofindividualismcollectivismeffectsoncooperationingroups1995" label="studiesofindividualismcollectivismeffectsoncooperationingroups1995">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="computerabuseinformationtechnologiesandjudicialaffairs2000" label="computerabuseinformationtechnologiesandjudicialaffairs2000">
+        <viz:color a="0" b="150" g="91" r="69" />
+        <viz:size value="30" />
+      </node>
+      <node id="studentcomputerusesurveyuniversity1999" label="studentcomputerusesurveyuniversity1999">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="policyforresponsiblecomputinguniversity1992" label="policyforresponsiblecomputinguniversity1992">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="officialstudenthandbookuniversity2000" label="officialstudenthandbookuniversity2000">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="policyforresponsiblecomputingastudentmanual1999" label="policyforresponsiblecomputingastudentmanual1999">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="soundbytingacampaigntoprotectmusicontheinternetcopyrightandmusic1011999" label="soundbytingacampaigntoprotectmusicontheinternetcopyrightandmusic1011999">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="mrnapstergoestowashington2000" label="mrnapstergoestowashington2000">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="streaminganapstersolutiononcampus2000" label="streaminganapstersolutiononcampus2000">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="familyeducationalrightsandprivacyact1974" label="familyeducationalrightsandprivacyact1974">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="howtoeliminatethe10mostcriticalinternetsecuritythreats2000" label="howtoeliminatethe10mostcriticalinternetsecuritythreats2000">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="announcingtheformationoftheeducausetaskforceonsystemsecurity2000" label="announcingtheformationoftheeducausetaskforceonsystemsecurity2000">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="theeffectofdemographicfactorsonattitudestowardssoftwarepiracy1991" label="theeffectofdemographicfactorsonattitudestowardssoftwarepiracy1991">
+        <viz:color a="0" b="150" g="91" r="69" />
+        <viz:size value="30" />
+      </node>
+      <node id="copyrightprotectionofcomputersoftware1985" label="copyrightprotectionofcomputersoftware1985">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="remediesinsoftwarecopyrightcases1985" label="remediesinsoftwarecopyrightcases1985">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="123suelotusvsclones1987" label="123suelotusvsclones1987">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="piratesparadiseshoppingforsoftwarebootleggedorbasiccanbearealexperienceinhongkong1986" label="piratesparadiseshoppingforsoftwarebootleggedorbasiccanbearealexperienceinhongkong1986">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="newfederallawbolsterscomputersecurity1986" label="newfederallawbolsterscomputersecurity1986">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="courtsexpandthecopyrightprotectionofsoftwarebutmanyquestionsremain1986" label="courtsexpandthecopyrightprotectionofsoftwarebutmanyquestionsremain1986">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="definingethicalandunethicalstudentbehaviorsusingdepartmentalregulationsandsanctions1987" label="definingethicalandunethicalstudentbehaviorsusingdepartmentalregulationsandsanctions1987">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="whatcsgraduatesdontlearnaboutsecurityconceptsandethicalstandardsoreverycompanyhasitsshareofdamnfoolsnoweverydamnfoolhasaccesstoacomputer1986" label="whatcsgraduatesdontlearnaboutsecurityconceptsandethicalstandardsoreverycompanyhasitsshareofdamnfoolsnoweverydamnfoolhasaccesstoacomputer1986">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="toughercopyrightswillboostinnovation1986" label="toughercopyrightswillboostinnovation1986">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="anempiricalapproachfordetectingprogramsimilarityandplagiarismwithinauniversityprogrammingenvironment1987" label="anempiricalapproachfordetectingprogramsimilarityandplagiarismwithinauniversityprogrammingenvironment1987">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="softwarepiracyitscostsandtheconsequences1987" label="softwarepiracyitscostsandtheconsequences1987">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="softwarelicensingforinstallationswithmultiplemicrocomputers1985" label="softwarelicensingforinstallationswithmultiplemicrocomputers1985">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="copyrightandcomputersoftwarehaugness1985" label="copyrightandcomputersoftwarehaugness1985">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="protectingyourmicrocomputersystemhighland1984" label="protectingyourmicrocomputersystemhighland1984">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="circlingthewagonstheindustryisturningtolitigationinanattempttostemthehemorrhageofpiratedintellectualproperties1986" label="circlingthewagonstheindustryisturningtolitigationinanattempttostemthehemorrhageofpiratedintellectualproperties1986">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="computerethicsaguideforthenewage1984" label="computerethicsaguideforthenewage1984">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="softwareprotectionchangestoaffectsitelicensingplans1986" label="softwareprotectionchangestoaffectsitelicensingplans1986">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="softwareindustrygroupssetsailagainstpiratesinacademe1986" label="softwareindustrygroupssetsailagainstpiratesinacademe1986">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="computerfraudandcountermeasureskrauss1979" label="computerfraudandcountermeasureskrauss1979">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="softwareandthelawpallette1986" label="softwareandthelawpallette1986">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="coalitiontocombatsoftwarepiracypublisherspursuehongkongcounterfeiters1987" label="coalitiontocombatsoftwarepiracypublisherspursuehongkongcounterfeiters1987">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="publisherstakeonsoftwarepiracyinacademia1987" label="publisherstakeonsoftwarepiracyinacademia1987">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="usersoftwarefirmscontinuetodebatecopyprotectionissues1986" label="usersoftwarefirmscontinuetodebatecopyprotectionissues1986">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="softwarepiracylimitsusexportgrowth1986" label="softwarepiracylimitsusexportgrowth1986">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="copyrightandcomputersoftwareaquestionofethics1984" label="copyrightandcomputersoftwareaquestionofethics1984">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="breakingthecopyprotectionbarriersavailable1986" label="breakingthecopyprotectionbarriersavailable1986">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="adivisivelotusclonewar1987" label="adivisivelotusclonewar1987">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="costsofcopyprotectionhitsoftwaremakertoo1986" label="costsofcopyprotectionhitsoftwaremakertoo1986">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="publicperceptionsoftheintellectualpropertyrightsissue1985" label="publicperceptionsoftheintellectualpropertyrightsissue1985">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="computersandlawcopyingmassmarketedsoftware1985" label="computersandlawcopyingmassmarketedsoftware1985">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="riseinlawsuitsoverillegalsoftwareusepromptscompaniestorevampusagepolicies1985" label="riseinlawsuitsoverillegalsoftwareusepromptscompaniestorevampusagepolicies1985">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="softwarepiratesbewareborkinisoutforblood1986" label="softwarepiratesbewareborkinisoutforblood1986">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="softwarerentalpiracyandcopyrightprotection1984" label="softwarerentalpiracyandcopyrightprotection1984">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="reportoncomputercrimeaba2003" label="reportoncomputercrimeaba2003">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="reportonthestudyofedprelatedfraudinthebankingandinsuranceindustries1984" label="reportonthestudyofedprelatedfraudinthebankingandinsuranceindustries1984">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="theauditorsresponsibilitytodetectandreporterrorsandirregularities1988" label="theauditorsresponsibilitytodetectandreporterrorsandirregularities1988">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="turningthecomputerintoacriminal1983" label="turningthecomputerintoacriminal1983">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="asecuritychecklistbequai1985" label="asecuritychecklistbequai1985">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="securitywithoutidentificationtransactionsystemstomakebigbrotherobsolete1985" label="securitywithoutidentificationtransactionsystemstomakebigbrotherobsolete1985">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="insiderthreatonautomatedinformationsystems1987" label="insiderthreatonautomatedinformationsystems1987">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="electronicfundtransfersystemsandcrime1982" label="electronicfundtransfersystemsandcrime1982">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="whoisacomputerfraudproneemployee1986" label="whoisacomputerfraudproneemployee1986">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="ofstickywicketstrickydigits1986" label="ofstickywicketstrickydigits1986">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="the1989computerabusesurveyareport2000" label="the1989computerabusesurveyareport2000">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="investigatingcomputercrimegoldstein1984" label="investigatingcomputercrimegoldstein1984">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="the9to5undergroundareyoupolicingcomputercrimes1989" label="the9to5undergroundareyoupolicingcomputercrimes1989">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="computerabuseandcomputercrimeasorganizationalactivities1980" label="computerabuseandcomputercrimeasorganizationalactivities1980">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="computerrelatedfraudandabuseingovernmentagencies1983" label="computerrelatedfraudandabuseingovernmentagencies1983">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="computerfraudthreatincreasingstudysays1987" label="computerfraudthreatincreasingstudysays1987">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="positivealternativesareportontheacmpanelonhacking1986" label="positivealternativesareportontheacmpanelonhacking1986">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="computercrimehowdeepdoesitgo1986" label="computercrimehowdeepdoesitgo1986">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="computerfraudsurveyinspectorate1981" label="computerfraudsurveyinspectorate1981">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="computersecuritysworstenemymanagementapathy1987" label="computersecuritysworstenemymanagementapathy1987">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="hardwareprotectionagainstsoftwarepiracy1984" label="hardwareprotectionagainstsoftwarepiracy1984">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="crimebycomputerparker1976" label="crimebycomputerparker1976">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="computersecuritymanagementparker1981" label="computersecuritymanagementparker1981">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="fightingcomputercrimeparker1983" label="fightingcomputercrimeparker1983">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="securityproblemsarepeopleproblems1987" label="securityproblemsarepeopleproblems1987">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="anintroductiontoedpauditing1987" label="anintroductiontoedpauditing1987">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="safeguardingyourbusinessagainsttheftandvandalism1983" label="safeguardingyourbusinessagainsttheftandvandalism1983">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="shortcomingsofcomputercrimelaw1985" label="shortcomingsofcomputercrimelaw1985">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="computerrelatedembezzlementsolarz1987" label="computerrelatedembezzlementsolarz1987">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="crisisandaftermathspafford1989" label="crisisandaftermathspafford1989">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="computerabuseandcomputersecurityupdateonanempiricalstudy1986" label="computerabuseandcomputersecurityupdateonanempiricalstudy1986">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="deterringcomputerabusetheeffectivenessofdeterrentcountermeasuresinthecomputersecurityenvironment1986" label="deterringcomputerabusetheeffectivenessofdeterrentcountermeasuresinthecomputersecurityenvironment1986">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="validatinginstrumentsinmisresearch1989" label="validatinginstrumentsinmisresearch1989">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="computerabuseandcomputersecurityadministrationastudyofcontemporaryinformationsecuritymethods1988" label="computerabuseandcomputersecurityadministrationastudyofcontemporaryinformationsecuritymethods1988">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="identificationtechnologywarfel1986" label="identificationtechnologywarfel1986">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="technologytransferindustrialespionageandcomputercrimetheproblemswearefacing1985" label="technologytransferindustrialespionageandcomputercrimetheproblemswearefacing1985">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+      <node id="informationsystemssecuritymanagementsuccessfactors1987" label="informationsystemssecuritymanagementsuccessfactors1987">
+        <viz:color a="0" b="105" g="105" r="105" />
+        <viz:size value="29" />
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="softwarepiracytops1billion1999" />
+      <edge id="1" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="topurchaseortopiratesoftwareanempiricalstudy1997" />
+      <edge id="2" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="preventiveanddeterrentcontrolsforsoftwarepiracy1997" />
+      <edge id="3" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="internationalsoftwarepiracyanalysisofkeyissuesandimpacts1998" />
+      <edge id="4" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="thesoftwarepiracydilemmainpublicadministrationasurveyofuniversitysoftwarepolicyenforcement1994" />
+      <edge id="5" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="towardaprofileofstudentsoftwarepiraters1996" />
+      <edge id="6" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="softwarepiracyananalysisofprotectionstrategies1991" />
+      <edge id="7" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="situationaldeterminantsofsoftwarepiracyanequitytheoryperspective1996" />
+      <edge id="8" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="whypeoplecopysoftwareandcreatecomputerviruses1989" />
+      <edge id="9" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="aquestionofethicsdevelopinginformationsystemethics1989" />
+      <edge id="10" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="theeffectofdemographicfactorsonattitudestowardsoftwarepiracy1990" />
+      <edge id="11" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="aviewofcomputerethicsbymanagersandstudents1991" />
+      <edge id="12" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="softwarepiracyisitrelatedtolevelofmoraljudgment1994" />
+      <edge id="13" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="computerethicstheroleofpersonalinformalandformalcodes1996" />
+      <edge id="14" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="softliftingamodelofmotivatingfactors1994" />
+      <edge id="15" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="theeffectofcodesofethicsandpersonaldenialofresponsibilityoncomputerabusejudgmentsandintentions1996" />
+      <edge id="16" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="evaluatingethicaldecisionmakingandcomputeruse1996" />
+      <edge id="17" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="softwarecopyrightinfringementsanexploratorystudyoftheeffectsofindividualandpeerbeliefs1997" />
+      <edge id="18" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="modelingitethicsastudyinsituationalethics1998" />
+      <edge id="19" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="anempiricalstudyofsoftwarepiracyandmoralintensityamonguniversitystudents2000" />
+      <edge id="20" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="thetheoryofplannedbehavior1991" />
+      <edge id="21" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="valuesattitudesandinterpersonalbehavior1980" />
+      <edge id="22" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="personalcomputingtowardaconceptualmodelofutilization1991" />
+      <edge id="23" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="influenceofexperienceonpersonalcomputerutilizationtestingaconceptualmodel1994" />
+      <edge id="24" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="apsychosocialmodelofsoftwarepiracythedevelopmentandtestofamodel1991" />
+      <edge id="25" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="developmentandvalidationofethicalcomputerselfefficacymeasurethecaseofsoftlifting2001" />
+      <edge id="26" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="intentionmodelbasedstudyofsoftwarepiracy1999" />
+      <edge id="27" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="ageneraltheoryofmarketingethics1986" />
+      <edge id="28" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="understandingeisuseanempiricaltestofabehavioralmodel1992" />
+      <edge id="29" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="thecopyrightfightmachrone1987" />
+      <edge id="30" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="acomparativeexaminationofattitudestowardsoftwarepiracyamongbusinessprofessorsandexecutives1993" />
+      <edge id="31" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="softwarepiracyandresponsibilitiesofeducationalinstitutions1990" />
+      <edge id="32" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="softwarepiracyandsoftwaresecuritymeasuresinbusinessschools1992" />
+      <edge id="33" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="computerethicsandcomputerabuseastudyofswedishandcanadianuniversitydataprocessingstudents1990" />
+      <edge id="34" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="professionalethicsbusinessstudentsperceptions1991" />
+      <edge id="35" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="softwarepiracyaviewfromhongkong2000" />
+      <edge id="36" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="extendingthetechnologyacceptancemodeltheinfluenceofperceiveduserresources2001" />
+      <edge id="37" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="introductiontothesecondgenerationofmultivariateanalysis1989" />
+      <edge id="38" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="applicationofsocialcognitivetheorytotrainingforcomputerskills1995" />
+      <edge id="39" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="issuesandopiniononstructuralequationmodeling1998" />
+      <edge id="40" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="theattitudeofmanagerstobetowardsoftwarepiracy1990" />
+      <edge id="41" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="softwarepiracyamongacademicsanempiricalstudyinbruneidarussalam2000" />
+      <edge id="42" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="discoveringanddiscipliningcomputerabuseinorganizationsafieldstudy1990" />
+      <edge id="43" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="theeffectofpreventiveanddeterrentsoftwarepiracystrategiesonproducerprofits1992" />
+      <edge id="44" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="astudyofunauthorizedsoftwarecopyingamongpostsecondarystudentsinhongkong1990" />
+      <edge id="45" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="softwarepiracyattitudesoftertiarystudentsinaustralia1998" />
+      <edge id="46" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="anexploratorystudyofmoralintensityregardingsoftwarepiracyofstudentsinthailand2003" />
+      <edge id="47" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="softwarepiracyamongcomputingstudentsabruneianscenario1999" />
+      <edge id="48" source="factorsmotivatingsoftwarepiracyalongitudinalstudy2004" target="themoralityofsoftwarepiracyacrossculturalanalysis1990" />
+      <edge id="49" source="topurchaseortopiratesoftwareanempiricalstudy1997" target="studycitessoftwareindustrygrowthpiracyproblems1993" />
+      <edge id="50" source="topurchaseortopiratesoftwareanempiricalstudy1997" target="factorsinfluencingsoftwarepiracyimplicationsforaccountants1991" />
+      <edge id="51" source="topurchaseortopiratesoftwareanempiricalstudy1997" target="softwarepiracyananalysisofprotectionstrategies1991" />
+      <edge id="52" source="topurchaseortopiratesoftwareanempiricalstudy1997" target="stalkingasiansoftwarepiratesgwynne1992" />
+      <edge id="53" source="topurchaseortopiratesoftwareanempiricalstudy1997" target="theraponsoftwarepiracy1993" />
+      <edge id="54" source="topurchaseortopiratesoftwareanempiricalstudy1997" target="softwarepiracyisitrelatedtolevelofmoraljudgment1994" />
+      <edge id="55" source="topurchaseortopiratesoftwareanempiricalstudy1997" target="freezeitsthecyberfuzz1994" />
+      <edge id="56" source="topurchaseortopiratesoftwareanempiricalstudy1997" target="optimalstrategicpricingofreproducibleconsumerproducts1988" />
+      <edge id="57" source="topurchaseortopiratesoftwareanempiricalstudy1997" target="theattitudeofmanagerstobetowardsoftwarepiracy1990" />
+      <edge id="58" source="topurchaseortopiratesoftwareanempiricalstudy1997" target="softwareandthelawpallatto1986" />
+      <edge id="59" source="topurchaseortopiratesoftwareanempiricalstudy1997" target="piratesinthedockparry1991" />
+      <edge id="60" source="topurchaseortopiratesoftwareanempiricalstudy1997" target="knowledgeandattitudesofmanagementstudentstowardsoftwarepiracy1992" />
+      <edge id="61" source="topurchaseortopiratesoftwareanempiricalstudy1997" target="businessfacultymembersperceptionsofunauthorizedsoftwarecopying1988" />
+      <edge id="62" source="topurchaseortopiratesoftwareanempiricalstudy1997" target="towardaprofileofstudentsoftwarepiraters1996" />
+      <edge id="63" source="topurchaseortopiratesoftwareanempiricalstudy1997" target="ethicalbeliefsofmisprofessionalsthefrequencyandopportunityforunethicalbehavior1990" />
+      <edge id="64" source="topurchaseortopiratesoftwareanempiricalstudy1997" target="spainvestigatesreportsoframpantpiracyontheinternet1993" />
+      <edge id="65" source="topurchaseortopiratesoftwareanempiricalstudy1997" target="theupsideofsoftwarepiracy1990" />
+      <edge id="66" source="preventiveanddeterrentcontrolsforsoftwarepiracy1997" target="thedeclineofcopyprotection1987" />
+      <edge id="67" source="preventiveanddeterrentcontrolsforsoftwarepiracy1997" target="softwarepublishingandtheeconomicimpactofcopying1987" />
+      <edge id="68" source="preventiveanddeterrentcontrolsforsoftwarepiracy1997" target="privatecopyingappropriabilityandoptimalcopyingroyalties1989" />
+      <edge id="69" source="preventiveanddeterrentcontrolsforsoftwarepiracy1997" target="introductionblumstein1978" />
+      <edge id="70" source="preventiveanddeterrentcontrolsforsoftwarepiracy1997" target="abehavioralmodelofethicalandunethicaldecisionmaking1987" />
+      <edge id="71" source="preventiveanddeterrentcontrolsforsoftwarepiracy1997" target="aneconomictheoryofclubs1965" />
+      <edge id="72" source="preventiveanddeterrentcontrolsforsoftwarepiracy1997" target="onyourhonorsoftwarefirmsremovecopyprotectiondevices1986" />
+      <edge id="73" source="preventiveanddeterrentcontrolsforsoftwarepiracy1997" target="softwarepiracyananalysisofprotectionstrategies1991" />
+      <edge id="74" source="preventiveanddeterrentcontrolsforsoftwarepiracy1997" target="participationinillegitimateactivitiesatheoreticalandempiricalinvestigation1973" />
+      <edge id="75" source="preventiveanddeterrentcontrolsforsoftwarepiracy1997" target="apsychosocialmodelofsoftwarepiracythedevelopmentandtestofamodel1991" />
+      <edge id="76" source="preventiveanddeterrentcontrolsforsoftwarepiracy1997" target="nabbingthepiratesofthecyberspacewillthelatestcrackdownsmakeadentinglobalproblemsofthelegalsoftwareduplication1994" />
+      <edge id="77" source="preventiveanddeterrentcontrolsforsoftwarepiracy1997" target="testinglimitsofsoftwarecopyright1989" />
+      <edge id="78" source="preventiveanddeterrentcontrolsforsoftwarepiracy1997" target="spaissuesgraphicwarningavailable1991" />
+      <edge id="79" source="preventiveanddeterrentcontrolsforsoftwarepiracy1997" target="usersmusttakeresponsibilitytocontroltheillegalcopyingofsoftware1987" />
+      <edge id="80" source="preventiveanddeterrentcontrolsforsoftwarepiracy1997" target="prospectsforinferenceondeterrencethroughempiricalanalysisofindividualcriminalbehavior1978" />
+      <edge id="81" source="preventiveanddeterrentcontrolsforsoftwarepiracy1997" target="crackdownonsoftwarepiratesmason1990" />
+      <edge id="82" source="preventiveanddeterrentcontrolsforsoftwarepiracy1997" target="softwarepiracytheproblems1987" />
+      <edge id="83" source="preventiveanddeterrentcontrolsforsoftwarepiracy1997" target="vendorscometogethertoformcaast1991" />
+      <edge id="84" source="preventiveanddeterrentcontrolsforsoftwarepiracy1997" target="economicsandethicsreilly1990" />
+      <edge id="85" source="preventiveanddeterrentcontrolsforsoftwarepiracy1997" target="curbingsoftwarepiratesresnick1993" />
+      <edge id="86" source="preventiveanddeterrentcontrolsforsoftwarepiracy1997" target="socioeconomicstatusandperceptionsofpersonalarrestprobabilities1982" />
+      <edge id="87" source="preventiveanddeterrentcontrolsforsoftwarepiracy1997" target="correlatesofcomputermisusedatafromaselfreportingsample1990" />
+      <edge id="88" source="preventiveanddeterrentcontrolsforsoftwarepiracy1997" target="onlegalsanctionsschwartz1967" />
+      <edge id="89" source="preventiveanddeterrentcontrolsforsoftwarepiracy1997" target="acomparativestudyofunauthorizedsoftwarecopyinginformationsystemsfacultymembersvspracticingmanagersperceptions1991" />
+      <edge id="90" source="preventiveanddeterrentcontrolsforsoftwarepiracy1997" target="theeffectofdemographicfactorsonattitudestowardsoftwarepiracy1990" />
+      <edge id="91" source="preventiveanddeterrentcontrolsforsoftwarepiracy1997" target="effectiveissecurityanempiricalstudy1990" />
+      <edge id="92" source="preventiveanddeterrentcontrolsforsoftwarepiracy1997" target="themoralityofsoftwarepiracyacrossculturalanalysis1990" />
+      <edge id="93" source="preventiveanddeterrentcontrolsforsoftwarepiracy1997" target="adapsobattlesmicrosoftwarepirates1985" />
+      <edge id="94" source="preventiveanddeterrentcontrolsforsoftwarepiracy1997" target="perceptualresearchongeneraldeterrenceacriticalreview1986" />
+      <edge id="95" source="preventiveanddeterrentcontrolsforsoftwarepiracy1997" target="ethicalattitudesofstudentsandbusinessprofessionalsastudyofmoralreasoning1988" />
+      <edge id="96" source="preventiveanddeterrentcontrolsforsoftwarepiracy1997" target="theupsideofsoftwarepiracy1990" />
+      <edge id="97" source="situationaldeterminantsofsoftwarepiracyanequitytheoryperspective1996" target="collegestudentsbelievepiracyisacceptable1989" />
+      <edge id="98" source="situationaldeterminantsofsoftwarepiracyanequitytheoryperspective1996" target="softwarepiracyananalysisofprotectionstrategies1991" />
+      <edge id="99" source="situationaldeterminantsofsoftwarepiracyanequitytheoryperspective1996" target="preparingisstudentstodealwithethicalissues1989" />
+      <edge id="100" source="situationaldeterminantsofsoftwarepiracyanequitytheoryperspective1996" target="whypeoplecopysoftwareandcreatecomputerviruses1989" />
+      <edge id="101" source="situationaldeterminantsofsoftwarepiracyanequitytheoryperspective1996" target="softwarepiracyandsoftwaresecurityinbusinessschoolsanethicalperspective1991" />
+      <edge id="102" source="situationaldeterminantsofsoftwarepiracyanequitytheoryperspective1996" target="legalandethicalissuesofsoftwarepiracy1992" />
+      <edge id="103" source="situationaldeterminantsofsoftwarepiracyanequitytheoryperspective1996" target="ethicaldecisionmakingbyindividualsinorganizationsanissuecontingentmodel1991" />
+      <edge id="104" source="situationaldeterminantsofsoftwarepiracyanequitytheoryperspective1996" target="themeasurementoffairnessorequityperceptionsofmanagementinformationsystemsusers1989" />
+      <edge id="105" source="situationaldeterminantsofsoftwarepiracyanequitytheoryperspective1996" target="aninvestigationofequityasadeterminantofuserinformationsatisfaction1990" />
+      <edge id="106" source="situationaldeterminantsofsoftwarepiracyanequitytheoryperspective1996" target="equityequalitypowerandconflict1991" />
+      <edge id="107" source="situationaldeterminantsofsoftwarepiracyanequitytheoryperspective1996" target="theequitysensitivityconstructpotentialimplicationsforworkerperformance1989" />
+      <edge id="108" source="situationaldeterminantsofsoftwarepiracyanequitytheoryperspective1996" target="theattitudeofmanagerstobetowardsoftwarepiracy1990" />
+      <edge id="109" source="situationaldeterminantsofsoftwarepiracyanequitytheoryperspective1996" target="practicingmanagersperceptionattitudestowardsillegalsoftwarecopying1989" />
+      <edge id="110" source="situationaldeterminantsofsoftwarepiracyanequitytheoryperspective1996" target="theeffectofdemographicfactorsonattitudestowardsoftwarepiracy1990" />
+      <edge id="111" source="situationaldeterminantsofsoftwarepiracyanequitytheoryperspective1996" target="keyinformationliabilityissuesfacingmanagerssoftwarepiracyproprietarydatabasesandindividualrightstoprivacy1990" />
+      <edge id="112" source="situationaldeterminantsofsoftwarepiracyanequitytheoryperspective1996" target="softwareandethicalsoftnessstrikwerda1992" />
+      <edge id="113" source="situationaldeterminantsofsoftwarepiracyanequitytheoryperspective1996" target="newdirectionsinequityresearch1973" />
+      <edge id="114" source="situationaldeterminantsofsoftwarepiracyanequitytheoryperspective1996" target="aviewofcomputerethicsbymanagersandstudents1991" />
+      <edge id="115" source="situationaldeterminantsofsoftwarepiracyanequitytheoryperspective1996" target="computerethicsandyearsofcomputeruse1993" />
+      <edge id="116" source="softliftingamodelofmotivatingfactors1994" target="attitudebehaviorrelationsatheoreticalanalysisandreviewofempiricalresearch1977" />
+      <edge id="117" source="softliftingamodelofmotivatingfactors1994" target="smrforumaresponsiblefutureanaddresstothecomputerindustry1984" />
+      <edge id="118" source="softliftingamodelofmotivatingfactors1994" target="educationforthemoraldevelopmentofmanagerskohlbergsstagesofmoraldevelopmentandintegrativeeducation1987" />
+      <edge id="119" source="softliftingamodelofmotivatingfactors1994" target="abehavioralmodelofethicalandunethicaldecisionmaking1987" />
+      <edge id="120" source="softliftingamodelofmotivatingfactors1994" target="softwarepiracyananalysisofprotectionstrategies1991" />
+      <edge id="121" source="softliftingamodelofmotivatingfactors1994" target="preparingisstudentstodealwithethicalissues1989" />
+      <edge id="122" source="softliftingamodelofmotivatingfactors1994" target="apsychosocialmodelofsoftwarepiracythedevelopmentandtestofamodel1991" />
+      <edge id="123" source="softliftingamodelofmotivatingfactors1994" target="acontingencyframeworkforunderstandingethicaldecisionmakinginmarketing1985" />
+      <edge id="124" source="softliftingamodelofmotivatingfactors1994" target="teachingethicsintheinformationsciencescurricula1982" />
+      <edge id="125" source="softliftingamodelofmotivatingfactors1994" target="fourethicalissuesoftheinformationage1986" />
+      <edge id="126" source="softliftingamodelofmotivatingfactors1994" target="theattitudeofmanagerstobetowardsoftwarepiracy1990" />
+      <edge id="127" source="softliftingamodelofmotivatingfactors1994" target="acomparativestudyofunauthorizedsoftwarecopyinginformationsystemsfacultymembersvspracticingmanagersperceptions1991" />
+      <edge id="128" source="softliftingamodelofmotivatingfactors1994" target="theeffectofdemographicfactorsonattitudestowardsoftwarepiracy1990" />
+      <edge id="129" source="softliftingamodelofmotivatingfactors1994" target="themoralityofsoftwarepiracyacrossculturalanalysis1990" />
+      <edge id="130" source="softliftingamodelofmotivatingfactors1994" target="computercrimeriskmanagementandcomputersecurity1985" />
+      <edge id="131" source="acomparativeexaminationofattitudestowardsoftwarepiracyamongbusinessprofessorsandexecutives1993" target="canweendsoftwarepiracy1987" />
+      <edge id="132" source="acomparativeexaminationofattitudestowardsoftwarepiracyamongbusinessprofessorsandexecutives1993" target="businessethicssocialresponsibilityandbusinessstudentsanempiricalcomparisonofclarksstudy1980" />
+      <edge id="133" source="acomparativeexaminationofattitudestowardsoftwarepiracyamongbusinessprofessorsandexecutives1993" target="howethicalarebusinessmenbaumhart1961" />
+      <edge id="134" source="acomparativeexaminationofattitudestowardsoftwarepiracyamongbusinessprofessorsandexecutives1993" target="computerethicsanantidotetodespair1987" />
+      <edge id="135" source="acomparativeexaminationofattitudestowardsoftwarepiracyamongbusinessprofessorsandexecutives1993" target="rulesformakingexceptionstorules1987" />
+      <edge id="136" source="acomparativeexaminationofattitudestowardsoftwarepiracyamongbusinessprofessorsandexecutives1993" target="theethicsoforganizationalpolitics1981" />
+      <edge id="137" source="acomparativeexaminationofattitudestowardsoftwarepiracyamongbusinessprofessorsandexecutives1993" target="theapprovalmotivecrowne1964" />
+      <edge id="138" source="acomparativeexaminationofattitudestowardsoftwarepiracyamongbusinessprofessorsandexecutives1993" target="lowmarksforexecutivehonesty1985" />
+      <edge id="139" source="acomparativeexaminationofattitudestowardsoftwarepiracyamongbusinessprofessorsandexecutives1993" target="softwarepiracyisyourcompanyliable1985" />
+      <edge id="140" source="acomparativeexaminationofattitudestowardsoftwarepiracyamongbusinessprofessorsandexecutives1993" target="linkingmanagementbehaviortoethicalphilosophyanempiricalinvestigation1984" />
+      <edge id="141" source="acomparativeexaminationofattitudestowardsoftwarepiracyamongbusinessprofessorsandexecutives1993" target="teachingbusinessethicsisthereagapbetweenrhetoricandreality1987" />
+      <edge id="142" source="acomparativeexaminationofattitudestowardsoftwarepiracyamongbusinessprofessorsandexecutives1993" target="gallupopinionindexavailable1985" />
+      <edge id="143" source="acomparativeexaminationofattitudestowardsoftwarepiracyamongbusinessprofessorsandexecutives1993" target="businesscurriculumandethicsstudentattitudesandbehavior1988" />
+      <edge id="144" source="acomparativeexaminationofattitudestowardsoftwarepiracyamongbusinessprofessorsandexecutives1993" target="softwarepiracyandresponsibilitiesofeducationalinstitutions1990" />
+      <edge id="145" source="acomparativeexaminationofattitudestowardsoftwarepiracyamongbusinessprofessorsandexecutives1993" target="manzidefendslotusfighttoprotect123copyright1990" />
+      <edge id="146" source="acomparativeexaminationofattitudestowardsoftwarepiracyamongbusinessprofessorsandexecutives1993" target="fourethicalissuesoftheinformationage1986" />
+      <edge id="147" source="acomparativeexaminationofattitudestowardsoftwarepiracyamongbusinessprofessorsandexecutives1993" target="thestructuringoforganizationsmintzberg1979" />
+      <edge id="148" source="acomparativeexaminationofattitudestowardsoftwarepiracyamongbusinessprofessorsandexecutives1993" target="microcomputertechnologyinschoolsofbusiness1987" />
+      <edge id="149" source="acomparativeexaminationofattitudestowardsoftwarepiracyamongbusinessprofessorsandexecutives1993" target="thedisktakerssilburt1987" />
+      <edge id="150" source="acomparativeexaminationofattitudestowardsoftwarepiracyamongbusinessprofessorsandexecutives1993" target="caughtintheactsmiddy1985" />
+      <edge id="151" source="acomparativeexaminationofattitudestowardsoftwarepiracyamongbusinessprofessorsandexecutives1993" target="theeffectofdemographicfactorsonattitudestowardsoftwarepiracy1990" />
+      <edge id="152" source="acomparativeexaminationofattitudestowardsoftwarepiracyamongbusinessprofessorsandexecutives1993" target="discoveringanddiscipliningcomputerabuseinorganizationsafieldstudy1990" />
+      <edge id="153" source="acomparativeexaminationofattitudestowardsoftwarepiracyamongbusinessprofessorsandexecutives1993" target="businessethicsandsocialresponsibilitytheresponseofpresentandfuturemanagers1984" />
+      <edge id="154" source="acomparativeexaminationofattitudestowardsoftwarepiracyamongbusinessprofessorsandexecutives1993" target="softwareleasingexpectedtoboom1989" />
+      <edge id="155" source="acomparativeexaminationofattitudestowardsoftwarepiracyamongbusinessprofessorsandexecutives1993" target="ethicaldecisionmakinginorganizationsapersonsituationinteractionistmodel1986" />
+      <edge id="156" source="acomparativeexaminationofattitudestowardsoftwarepiracyamongbusinessprofessorsandexecutives1993" target="ethicalbeliefsofmisprofessionalsthefrequencyandopportunityforunethicalbehavior1990" />
+      <edge id="157" source="acomparativeexaminationofattitudestowardsoftwarepiracyamongbusinessprofessorsandexecutives1993" target="rolesetconfigurationandopportunityaspredictorsofunethicalbehaviorinorganizations1982" />
+      <edge id="158" source="acomparativeexaminationofattitudestowardsoftwarepiracyamongbusinessprofessorsandexecutives1993" target="predictingunethicalbehavioramongmarketingpractitioners1979" />
+      <edge id="159" source="softwarepiracyaviewfromhongkong2000" target="modelingitethicsastudyinsituationalethics1998" />
+      <edge id="160" source="softwarepiracyaviewfromhongkong2000" target="topurchaseortopiratesoftwareanempiricalstudy1997" />
+      <edge id="161" source="softwarepiracyaviewfromhongkong2000" target="softwarepiracyananalysisofprotectionstrategies1991" />
+      <edge id="162" source="softwarepiracyaviewfromhongkong2000" target="ethicaldecisionmakingbyindividualsinorganizationsanissuecontingentmodel1991" />
+      <edge id="163" source="softwarepiracyaviewfromhongkong2000" target="howmenandwomenviewethics1998" />
+      <edge id="164" source="softwarepiracyaviewfromhongkong2000" target="softwarepiracyisitrelatedtolevelofmoraljudgment1994" />
+      <edge id="165" source="softwarepiracyaviewfromhongkong2000" target="scenariosinbusinessethicsresearchreviewcriticalassessmentandrecommendations1992" />
+      <edge id="166" source="discoveringanddiscipliningcomputerabuseinorganizationsafieldstudy1990" target="reportoncomputercrimeaba2003" />
+      <edge id="167" source="discoveringanddiscipliningcomputerabuseinorganizationsafieldstudy1990" target="reportonthestudyofedprelatedfraudinthebankingandinsuranceindustries1984" />
+      <edge id="168" source="discoveringanddiscipliningcomputerabuseinorganizationsafieldstudy1990" target="theauditorsresponsibilitytodetectandreporterrorsandirregularities1988" />
+      <edge id="169" source="discoveringanddiscipliningcomputerabuseinorganizationsafieldstudy1990" target="turningthecomputerintoacriminal1983" />
+      <edge id="170" source="discoveringanddiscipliningcomputerabuseinorganizationsafieldstudy1990" target="asecuritychecklistbequai1985" />
+      <edge id="171" source="discoveringanddiscipliningcomputerabuseinorganizationsafieldstudy1990" target="securitywithoutidentificationtransactionsystemstomakebigbrotherobsolete1985" />
+      <edge id="172" source="discoveringanddiscipliningcomputerabuseinorganizationsafieldstudy1990" target="insiderthreatonautomatedinformationsystems1987" />
+      <edge id="173" source="discoveringanddiscipliningcomputerabuseinorganizationsafieldstudy1990" target="electronicfundtransfersystemsandcrime1982" />
+      <edge id="174" source="discoveringanddiscipliningcomputerabuseinorganizationsafieldstudy1990" target="whoisacomputerfraudproneemployee1986" />
+      <edge id="175" source="discoveringanddiscipliningcomputerabuseinorganizationsafieldstudy1990" target="ofstickywicketstrickydigits1986" />
+      <edge id="176" source="discoveringanddiscipliningcomputerabuseinorganizationsafieldstudy1990" target="the1989computerabusesurveyareport2000" />
+      <edge id="177" source="discoveringanddiscipliningcomputerabuseinorganizationsafieldstudy1990" target="investigatingcomputercrimegoldstein1984" />
+      <edge id="178" source="discoveringanddiscipliningcomputerabuseinorganizationsafieldstudy1990" target="the9to5undergroundareyoupolicingcomputercrimes1989" />
+      <edge id="179" source="discoveringanddiscipliningcomputerabuseinorganizationsafieldstudy1990" target="computerabuseandcomputercrimeasorganizationalactivities1980" />
+      <edge id="180" source="discoveringanddiscipliningcomputerabuseinorganizationsafieldstudy1990" target="computerrelatedfraudandabuseingovernmentagencies1983" />
+      <edge id="181" source="discoveringanddiscipliningcomputerabuseinorganizationsafieldstudy1990" target="computerfraudthreatincreasingstudysays1987" />
+      <edge id="182" source="discoveringanddiscipliningcomputerabuseinorganizationsafieldstudy1990" target="positivealternativesareportontheacmpanelonhacking1986" />
+      <edge id="183" source="discoveringanddiscipliningcomputerabuseinorganizationsafieldstudy1990" target="computercrimehowdeepdoesitgo1986" />
+      <edge id="184" source="discoveringanddiscipliningcomputerabuseinorganizationsafieldstudy1990" target="computerfraudsurveyinspectorate1981" />
+      <edge id="185" source="discoveringanddiscipliningcomputerabuseinorganizationsafieldstudy1990" target="computersecuritysworstenemymanagementapathy1987" />
+      <edge id="186" source="discoveringanddiscipliningcomputerabuseinorganizationsafieldstudy1990" target="hardwareprotectionagainstsoftwarepiracy1984" />
+      <edge id="187" source="discoveringanddiscipliningcomputerabuseinorganizationsafieldstudy1990" target="crimebycomputerparker1976" />
+      <edge id="188" source="discoveringanddiscipliningcomputerabuseinorganizationsafieldstudy1990" target="computersecuritymanagementparker1981" />
+      <edge id="189" source="discoveringanddiscipliningcomputerabuseinorganizationsafieldstudy1990" target="fightingcomputercrimeparker1983" />
+      <edge id="190" source="discoveringanddiscipliningcomputerabuseinorganizationsafieldstudy1990" target="securityproblemsarepeopleproblems1987" />
+      <edge id="191" source="discoveringanddiscipliningcomputerabuseinorganizationsafieldstudy1990" target="anintroductiontoedpauditing1987" />
+      <edge id="192" source="discoveringanddiscipliningcomputerabuseinorganizationsafieldstudy1990" target="safeguardingyourbusinessagainsttheftandvandalism1983" />
+      <edge id="193" source="discoveringanddiscipliningcomputerabuseinorganizationsafieldstudy1990" target="shortcomingsofcomputercrimelaw1985" />
+      <edge id="194" source="discoveringanddiscipliningcomputerabuseinorganizationsafieldstudy1990" target="computerrelatedembezzlementsolarz1987" />
+      <edge id="195" source="discoveringanddiscipliningcomputerabuseinorganizationsafieldstudy1990" target="crisisandaftermathspafford1989" />
+      <edge id="196" source="discoveringanddiscipliningcomputerabuseinorganizationsafieldstudy1990" target="computerabuseandcomputersecurityupdateonanempiricalstudy1986" />
+      <edge id="197" source="discoveringanddiscipliningcomputerabuseinorganizationsafieldstudy1990" target="deterringcomputerabusetheeffectivenessofdeterrentcountermeasuresinthecomputersecurityenvironment1986" />
+      <edge id="198" source="discoveringanddiscipliningcomputerabuseinorganizationsafieldstudy1990" target="validatinginstrumentsinmisresearch1989" />
+      <edge id="199" source="discoveringanddiscipliningcomputerabuseinorganizationsafieldstudy1990" target="computerabuseandcomputersecurityadministrationastudyofcontemporaryinformationsecuritymethods1988" />
+      <edge id="200" source="discoveringanddiscipliningcomputerabuseinorganizationsafieldstudy1990" target="identificationtechnologywarfel1986" />
+      <edge id="201" source="discoveringanddiscipliningcomputerabuseinorganizationsafieldstudy1990" target="technologytransferindustrialespionageandcomputercrimetheproblemswearefacing1985" />
+      <edge id="202" source="discoveringanddiscipliningcomputerabuseinorganizationsafieldstudy1990" target="informationsystemssecuritymanagementsuccessfactors1987" />
+      <edge id="203" source="anexploratorystudyofmoralintensityregardingsoftwarepiracyofstudentsinthailand2003" target="acomparisonofexpertsandhightechstudentsethicalbeliefsincomputerrelatedsituations1993" />
+      <edge id="204" source="anexploratorystudyofmoralintensityregardingsoftwarepiracyofstudentsinthailand2003" target="wouldthesoftwarepolicefindyourcompanyguilty1994" />
+      <edge id="205" source="anexploratorystudyofmoralintensityregardingsoftwarepiracyofstudentsinthailand2003" target="topurchaseortopiratesoftwareanempiricalstudy1997" />
+      <edge id="206" source="anexploratorystudyofmoralintensityregardingsoftwarepiracyofstudentsinthailand2003" target="informationethicsanempiricalinvestigationofkoreaandtheunitedstates1997" />
+      <edge id="207" source="anexploratorystudyofmoralintensityregardingsoftwarepiracyofstudentsinthailand2003" target="apsychosocialmodelofsoftwarepiracythedevelopmentandtestofamodel1991" />
+      <edge id="208" source="anexploratorystudyofmoralintensityregardingsoftwarepiracyofstudentsinthailand2003" target="anempiricalstudyofsoftwarepiracyandmoralintensityamonguniversitystudents2000" />
+      <edge id="209" source="anexploratorystudyofmoralintensityregardingsoftwarepiracyofstudentsinthailand2003" target="stageandsequencethecognitivedevelopmentalapproachtosocialization1969" />
+      <edge id="210" source="anexploratorystudyofmoralintensityregardingsoftwarepiracyofstudentsinthailand2003" target="ethicalviewsandbehaviorregardingsoftwareundergraduatebusinessstudentsvsmbastudents1996" />
+      <edge id="211" source="anexploratorystudyofmoralintensityregardingsoftwarepiracyofstudentsinthailand2003" target="intentionmodelbasedstudyofsoftwarepiracy1999" />
+      <edge id="212" source="anexploratorystudyofmoralintensityregardingsoftwarepiracyofstudentsinthailand2003" target="softwarepiracyisitrelatedtolevelofmoraljudgment1994" />
+      <edge id="213" source="anexploratorystudyofmoralintensityregardingsoftwarepiracyofstudentsinthailand2003" target="softliftingamodelofmotivatingfactors1994" />
+      <edge id="214" source="factorsaffectingsoftliftingintentionofcomputingstudentsanempiricalstudy2001" target="fourethicalissuesoftheinformationage1986" />
+      <edge id="215" source="factorsaffectingsoftliftingintentionofcomputingstudentsanempiricalstudy2001" target="studycitessoftwareindustrygrowthpiracyproblems1993" />
+      <edge id="216" source="factorsaffectingsoftliftingintentionofcomputingstudentsanempiricalstudy2001" target="softwarepiracycosts114bavailable1998" />
+      <edge id="217" source="factorsaffectingsoftliftingintentionofcomputingstudentsanempiricalstudy2001" target="whysoftwarecopyprotectionisnecessary1996" />
+      <edge id="218" source="factorsaffectingsoftliftingintentionofcomputingstudentsanempiricalstudy2001" target="apsychosocialmodelofsoftwarepiracythedevelopmentandtestofamodel1991" />
+      <edge id="219" source="factorsaffectingsoftliftingintentionofcomputingstudentsanempiricalstudy2001" target="computerethicsandcomputerabuseastudyofswedishandcanadianuniversitydataprocessingstudents1990" />
+      <edge id="220" source="factorsaffectingsoftliftingintentionofcomputingstudentsanempiricalstudy2001" target="acomparativeexaminationofattitudestowardsoftwarepiracyamongbusinessprofessorsandexecutives1993" />
+      <edge id="221" source="factorsaffectingsoftliftingintentionofcomputingstudentsanempiricalstudy2001" target="softliftingamodelofmotivatingfactors1994" />
+      <edge id="222" source="factorsaffectingsoftliftingintentionofcomputingstudentsanempiricalstudy2001" target="developingapredictivemodelofsoftwarepiracybehaviouranempiricalstudy1996" />
+      <edge id="223" source="factorsaffectingsoftliftingintentionofcomputingstudentsanempiricalstudy2001" target="towardaprofileofstudentsoftwarepiraters1996" />
+      <edge id="224" source="factorsaffectingsoftliftingintentionofcomputingstudentsanempiricalstudy2001" target="softwarepiracyamongcomputingstudentsabruneianscenario1999" />
+      <edge id="225" source="factorsaffectingsoftliftingintentionofcomputingstudentsanempiricalstudy2001" target="softwarepiracyattitudesoftertiarystudentsinaustralia1998" />
+      <edge id="226" source="factorsaffectingsoftliftingintentionofcomputingstudentsanempiricalstudy2001" target="testinganethicaldecisionmakingtheorythecaseofsoftlifting1998" />
+      <edge id="227" source="factorsaffectingsoftliftingintentionofcomputingstudentsanempiricalstudy2001" target="takingstockcanthetheoryofreasonedactionexplainunethicalconduct1989" />
+      <edge id="228" source="factorsaffectingsoftliftingintentionofcomputingstudentsanempiricalstudy2001" target="factorsinfluencingsoftwarepiracyimplicationsforaccountants1991" />
+      <edge id="229" source="factorsaffectingsoftliftingintentionofcomputingstudentsanempiricalstudy2001" target="computercrimeriskmanagementandcomputersecurity1985" />
+      <edge id="230" source="factorsaffectingsoftliftingintentionofcomputingstudentsanempiricalstudy2001" target="genderrolescomputerattitudesanddyadiccomputerinteractionperformanceincollegestudents1993" />
+      <edge id="231" source="factorsaffectingsoftliftingintentionofcomputingstudentsanempiricalstudy2001" target="perceptionsofinitiatoryandretaliatorycheatingbehaviour1984" />
+      <edge id="232" source="factorsaffectingsoftliftingintentionofcomputingstudentsanempiricalstudy2001" target="evaluatingethicaldecisionmakingandcomputeruse1996" />
+      <edge id="233" source="factorsaffectingsoftliftingintentionofcomputingstudentsanempiricalstudy2001" target="thesoftwarepiracydilemmainpublicadministrationasurveyofuniversitysoftwarepolicyenforcement1994" />
+      <edge id="234" source="factorsaffectingsoftliftingintentionofcomputingstudentsanempiricalstudy2001" target="moralobligationandattitudestheirrelationtobehavioralintentions1983" />
+      <edge id="235" source="factorsaffectingsoftliftingintentionofcomputingstudentsanempiricalstudy2001" target="aparadigmfordevelopingbettermeasuresofmarketingconstructs1979" />
+      <edge id="236" source="factorsaffectingsoftliftingintentionofcomputingstudentsanempiricalstudy2001" target="themoralityofsoftwarepiracyacrossculturalanalysis1990" />
+      <edge id="237" source="factorsaffectingsoftliftingintentionofcomputingstudentsanempiricalstudy2001" target="topurchaseortopiratesoftwareanempiricalstudy1997" />
+      <edge id="238" source="factorsaffectingsoftliftingintentionofcomputingstudentsanempiricalstudy2001" target="informationtechnologyandorganizationalchangecausalstructureintheoryandresearch1988" />
+      <edge id="239" source="factorsaffectingsoftliftingintentionofcomputingstudentsanempiricalstudy2001" target="computeranxietyandattitudestowardsmicrocomputeruse1990" />
+      <edge id="240" source="testinganethicaldecisionmakingtheorythecaseofsoftlifting1998" target="usingthenewacmcodeofethicsindecisionmaking1993" />
+      <edge id="241" source="testinganethicaldecisionmakingtheorythecaseofsoftlifting1998" target="anexaminationofgendereffectsoncareersuccessofinformationsystemsemployees1994" />
+      <edge id="242" source="testinganethicaldecisionmakingtheorythecaseofsoftlifting1998" target="factorsinfluencingsoftwarepiracyimplicationsforaccountants1991" />
+      <edge id="243" source="testinganethicaldecisionmakingtheorythecaseofsoftlifting1998" target="paramedicethicsforcomputerprofessionals1992" />
+      <edge id="244" source="testinganethicaldecisionmakingtheorythecaseofsoftlifting1998" target="preparingisstudentstodealwithethicalissues1989" />
+      <edge id="245" source="testinganethicaldecisionmakingtheorythecaseofsoftlifting1998" target="apsychosocialmodelofsoftwarepiracythedevelopmentandtestofamodel1991" />
+      <edge id="246" source="testinganethicaldecisionmakingtheorythecaseofsoftlifting1998" target="acontingencyframeworkforunderstandingethicaldecisionmakinginmarketing1985" />
+      <edge id="247" source="testinganethicaldecisionmakingtheorythecaseofsoftlifting1998" target="ethicaldecisionmakingareviewoftheempiricalliterature1994" />
+      <edge id="248" source="testinganethicaldecisionmakingtheorythecaseofsoftlifting1998" target="whypeoplecopysoftwareandcreatecomputerviruses1989" />
+      <edge id="249" source="testinganethicaldecisionmakingtheorythecaseofsoftlifting1998" target="theanomalyofotherdirectednesswhennormallyethicalispersonnelareunethical1995" />
+      <edge id="250" source="testinganethicaldecisionmakingtheorythecaseofsoftlifting1998" target="culturesandorganizationssoftwareofthemind1991" />
+      <edge id="251" source="testinganethicaldecisionmakingtheorythecaseofsoftlifting1998" target="computingconsequencesaframeworkforteachingethicalcomputing1995" />
+      <edge id="252" source="testinganethicaldecisionmakingtheorythecaseofsoftlifting1998" target="ageneraltheoryofmarketingethics1986" />
+      <edge id="253" source="testinganethicaldecisionmakingtheorythecaseofsoftlifting1998" target="ethicaldecisionmakingbyindividualsinorganizationsanissuecontingentmodel1991" />
+      <edge id="254" source="testinganethicaldecisionmakingtheorythecaseofsoftlifting1998" target="beyondoutlawshackersandpiratesethicalissuesintheworkofinformationandcomputerscienceprofessionals1996" />
+      <edge id="255" source="testinganethicaldecisionmakingtheorythecaseofsoftlifting1998" target="ethicalconceptsandinformationtechnology1995" />
+      <edge id="256" source="testinganethicaldecisionmakingtheorythecaseofsoftlifting1998" target="identifyingandaddressingretailsalespeoplesethicalproblemsamethodandapplication1983" />
+      <edge id="257" source="testinganethicaldecisionmakingtheorythecaseofsoftlifting1998" target="evaluatingethicaldecisionmakingandcomputeruse1996" />
+      <edge id="258" source="testinganethicaldecisionmakingtheorythecaseofsoftlifting1998" target="computerprofessionalsmoralautonomyandacodeofethics1992" />
+      <edge id="259" source="testinganethicaldecisionmakingtheorythecaseofsoftlifting1998" target="fourethicalissuesoftheinformationage1986" />
+      <edge id="260" source="testinganethicaldecisionmakingtheorythecaseofsoftlifting1998" target="ethicstoinformationtechnologyissues1995" />
+      <edge id="261" source="testinganethicaldecisionmakingtheorythecaseofsoftlifting1998" target="anempiricalinvestigationofageneraltheoryofmarketingethics1990" />
+      <edge id="262" source="testinganethicaldecisionmakingtheorythecaseofsoftlifting1998" target="marketingethicsareviewwithimplicationsformanagerseducatorsandresearchers1981" />
+      <edge id="263" source="testinganethicaldecisionmakingtheorythecaseofsoftlifting1998" target="ethicalstandardsforinformationsystemsprofessionalsacaseforaunifiedcode1992" />
+      <edge id="264" source="testinganethicaldecisionmakingtheorythecaseofsoftlifting1998" target="ethicalconflictsininformationandcomputerscience1990" />
+      <edge id="265" source="testinganethicaldecisionmakingtheorythecaseofsoftlifting1998" target="takingstockcanthetheoryofreasonedactionexplainunethicalconduct1989" />
+      <edge id="266" source="testinganethicaldecisionmakingtheorythecaseofsoftlifting1998" target="digitalmediaandthelaw1991" />
+      <edge id="267" source="testinganethicaldecisionmakingtheorythecaseofsoftlifting1998" target="computerprogramsandcopyrightsfairusedoctrine1993" />
+      <edge id="268" source="testinganethicaldecisionmakingtheorythecaseofsoftlifting1998" target="copyrightsfairusedoctrineanddigitaldata1994" />
+      <edge id="269" source="testinganethicaldecisionmakingtheorythecaseofsoftlifting1998" target="softliftingamodelofmotivatingfactors1994" />
+      <edge id="270" source="testinganethicaldecisionmakingtheorythecaseofsoftlifting1998" target="researchnoteselectedfactorsinfluencingmarketersdeontologicalnorms1991" />
+      <edge id="271" source="testinganethicaldecisionmakingtheorythecaseofsoftlifting1998" target="keyinformationliabilityissuesfacingmanagerssoftwarepiracyproprietarydatabasesandindividualrightstoprivacy1990" />
+      <edge id="272" source="testinganethicaldecisionmakingtheorythecaseofsoftlifting1998" target="ethicaldecisionmakinginorganizationsapersonsituationinteractionistmodel1986" />
+      <edge id="273" source="testinganethicaldecisionmakingtheorythecaseofsoftlifting1998" target="ethicalbeliefsofmisprofessionalsthefrequencyandopportunityforunethicalbehavior1990" />
+      <edge id="274" source="testinganethicaldecisionmakingtheorythecaseofsoftlifting1998" target="thegeneraltheoryofmarketingethicsapartialtestofthemodel1990" />
+      <edge id="275" source="testinganethicaldecisionmakingtheorythecaseofsoftlifting1998" target="personalcomputingethicsbeliefsandbehaviour1993" />
+      <edge id="276" source="testinganethicaldecisionmakingtheorythecaseofsoftlifting1998" target="determinantsofbehaviortowardsethicalissuesinpersonalcomputing1993" />
+      <edge id="277" source="therelevanceofsoftwarerightsananthologyofthedivergenceofsociopoliticaldoctrines2001" target="informationethicsonthephilosophicalfoundationofcomputerethics1999" />
+      <edge id="278" source="therelevanceofsoftwarerightsananthologyofthedivergenceofsociopoliticaldoctrines2001" target="someconfusionsaboutsubjectivityhare1976" />
+      <edge id="279" source="therelevanceofsoftwarerightsananthologyofthedivergenceofsociopoliticaldoctrines2001" target="foundationalismandcoherentismhare1999" />
+      <edge id="280" source="therelevanceofsoftwarerightsananthologyofthedivergenceofsociopoliticaldoctrines2001" target="lucianofloridininformaatioetiikkajasensoveltaminenkäytäntöön1999" />
+      <edge id="281" source="therelevanceofsoftwarerightsananthologyofthedivergenceofsociopoliticaldoctrines2001" target="thenewclassificationofresearchapproaches1997" />
+      <edge id="282" source="therelevanceofsoftwarerightsananthologyofthedivergenceofsociopoliticaldoctrines2001" target="thechangingrolesofpatentandcopyrightprotectionforsoftwareandcommunicationtechnology1998" />
+      <edge id="283" source="therelevanceofsoftwarerightsananthologyofthedivergenceofsociopoliticaldoctrines2001" target="moralfoundationsofintellectualpropertyrights1995" />
+      <edge id="284" source="therelevanceofsoftwarerightsananthologyofthedivergenceofsociopoliticaldoctrines2001" target="fourethicalissuesoftheinformationage1986" />
+      <edge id="285" source="therelevanceofsoftwarerightsananthologyofthedivergenceofsociopoliticaldoctrines2001" target="whatiscomputerethicsmoor1985" />
+      <edge id="286" source="therelevanceofsoftwarerightsananthologyofthedivergenceofsociopoliticaldoctrines2001" target="shouldicopymyneighborssoftware1995" />
+      <edge id="287" source="therelevanceofsoftwarerightsananthologyofthedivergenceofsociopoliticaldoctrines2001" target="philosophyofscienceapersonalreport1957" />
+      <edge id="288" source="therelevanceofsoftwarerightsananthologyofthedivergenceofsociopoliticaldoctrines2001" target="selectedlegalissuesrelatedtointernetuse1997" />
+      <edge id="289" source="therelevanceofsoftwarerightsananthologyofthedivergenceofsociopoliticaldoctrines2001" target="themoralisticdimensionsofunauthorisedcopyingofsoftwareselectedissues1998" />
+      <edge id="290" source="therelevanceofsoftwarerightsananthologyofthedivergenceofsociopoliticaldoctrines2001" target="ownershipofcomputersoftwaresnapper1995" />
+      <edge id="291" source="therelevanceofsoftwarerightsananthologyofthedivergenceofsociopoliticaldoctrines2001" target="whysoftwareshouldbefree1995" />
+      <edge id="292" source="therelevanceofsoftwarerightsananthologyofthedivergenceofsociopoliticaldoctrines2001" target="thegnumanifestostallman1997" />
+      <edge id="293" source="therelevanceofsoftwarerightsananthologyofthedivergenceofsociopoliticaldoctrines2001" target="intellectualpropertyrightsandcomputersoftware1997" />
+      <edge id="294" source="globalsoftwarepiracyyoucantgetbloodoutofaturnip2000" target="internationaldimensionsoftheproductivityparadox1998" />
+      <edge id="295" source="globalsoftwarepiracyyoucantgetbloodoutofaturnip2000" target="preventiveanddeterrentcontrolsforsoftwarepiracy1997" />
+      <edge id="296" source="globalsoftwarepiracyyoucantgetbloodoutofaturnip2000" target="internationalsoftwarepiracyanalysisofkeyissuesandimpacts1998" />
+      <edge id="297" source="globalsoftwarepiracyyoucantgetbloodoutofaturnip2000" target="pricediscriminationpersonaluseandpiracycopyrightprotectionofdigitalworks1997" />
+      <edge id="298" source="ethicalbeliefsofmisprofessionalsthefrequencyandopportunityforunethicalbehavior1990" target="businessethicssocialresponsibilityandbusinessstudentsanempiricalcomparisonofclarksstudy1980" />
+      <edge id="299" source="ethicalbeliefsofmisprofessionalsthefrequencyandopportunityforunethicalbehavior1990" target="howethicalarebusinessmenbaumhart1961" />
+      <edge id="300" source="ethicalbeliefsofmisprofessionalsthefrequencyandopportunityforunethicalbehavior1990" target="istheethicsofbusinesschanging1977" />
+      <edge id="301" source="ethicalbeliefsofmisprofessionalsthefrequencyandopportunityforunethicalbehavior1990" target="managingthedecisionsciencetechnologyacaseforethicalanalysis1981" />
+      <edge id="302" source="ethicalbeliefsofmisprofessionalsthefrequencyandopportunityforunethicalbehavior1990" target="ethicsandmarketingmanagementanempiricalexamination1985" />
+      <edge id="303" source="ethicalbeliefsofmisprofessionalsthefrequencyandopportunityforunethicalbehavior1990" target="acontingencyframeworkforunderstandingethicaldecisionmakinginmarketing1985" />
+      <edge id="304" source="ethicalbeliefsofmisprofessionalsthefrequencyandopportunityforunethicalbehavior1990" target="ageneraltheoryofmarketingethics1986" />
+      <edge id="305" source="ethicalbeliefsofmisprofessionalsthefrequencyandopportunityforunethicalbehavior1990" target="marketingethicsareviewwithimplicationsformanagerseducatorsandresearchers1981" />
+      <edge id="306" source="internationalsoftwarepiracyweisband1992" target="fakewindowsersatzdosangryunclesam1992" />
+      <edge id="307" source="internationalsoftwarepiracyweisband1992" target="piracyofintellectualpropertyhoffman1990" />
+      <edge id="308" source="internationalsoftwarepiracyweisband1992" target="whosebrightideamccarroll1991" />
+      <edge id="309" source="internationalsoftwarepiracyweisband1992" target="testimonybeforethehousesubcommitteeoncourts1990" />
+      <edge id="310" source="internationalsoftwarepiracyweisband1992" target="theberneconventionabadideawhosetimehascome1988" />
+      <edge id="311" source="internationalsoftwarepiracyweisband1992" target="stalkingasiansoftwarepiratesgwynne1992" />
+      <edge id="312" source="definingeducationalpolicyonsoftwareusageinthelightofcopyrightlaw1989" target="canweendsoftwarepiracy1987" />
+      <edge id="313" source="definingeducationalpolicyonsoftwareusageinthelightofcopyrightlaw1989" target="thedeclineofcopyprotection1987" />
+      <edge id="314" source="definingeducationalpolicyonsoftwareusageinthelightofcopyrightlaw1989" target="combatingsoftwarepiracyastatutoryproposaltostrengthensoftwarecopyright1985" />
+      <edge id="315" source="definingeducationalpolicyonsoftwareusageinthelightofcopyrightlaw1989" target="theconstitutionoftheunitedstatesofamerica1988" />
+      <edge id="316" source="definingeducationalpolicyonsoftwareusageinthelightofcopyrightlaw1989" target="computerlawaprimeronthelawofsoftwareprotection1986" />
+      <edge id="317" source="definingeducationalpolicyonsoftwareusageinthelightofcopyrightlaw1989" target="whateducatorsshouldknowaboutcopyright1986" />
+      <edge id="318" source="definingeducationalpolicyonsoftwareusageinthelightofcopyrightlaw1989" target="protectionofmassmarketedsoftwareinthewaningdaysofshrinkwraplicenses1988" />
+      <edge id="319" source="definingeducationalpolicyonsoftwareusageinthelightofcopyrightlaw1989" target="copyingmassmarketedsoftwaresterne1985" />
+      <edge id="320" source="definingeducationalpolicyonsoftwareusageinthelightofcopyrightlaw1989" target="thoushaltnotdupeavailable1984" />
+      <edge id="321" source="softwarepricingandcopyrightenforcementprivateprofitvisàvissocialwelfare1999" target="topurchaseorpiratesoftwareanempiricalstudy1997" />
+      <edge id="322" source="softwarepricingandcopyrightenforcementprivateprofitvisàvissocialwelfare1999" target="copyingandindirectappropriabilityphotocopyingofjournals1985" />
+      <edge id="323" source="softwarepricingandcopyrightenforcementprivateprofitvisàvissocialwelfare1999" target="durabilitymarketstructureandnewusedgoodsmodels1982" />
+      <edge id="324" source="softwarepricingandcopyrightenforcementprivateprofitvisàvissocialwelfare1999" target="theeffectsofincreasedcopyrightprotectionananalyticapproach1984" />
+      <edge id="325" source="softwarepricingandcopyrightenforcementprivateprofitvisàvissocialwelfare1999" target="economiceffectsofhomecopying1988" />
+      <edge id="326" source="softwarepricingandcopyrightenforcementprivateprofitvisàvissocialwelfare1999" target="thewelfareimplicationsofunauthorizedreproductionofintellectualpropertyinthepresenceofnetworkexternalities1994" />
+      <edge id="327" source="softwarepricingandcopyrightenforcementprivateprofitvisàvissocialwelfare1999" target="buyingrentingandsharinginformationgoods1999" />
+      <edge id="328" source="understandingdifferencesinethicalbeliefsandbehaviorstowardsoftwarecopyingtheeffectsoforganizationculture1999" target="fromintentionstoactionsatheoryofplannedbehavior1985" />
+      <edge id="329" source="understandingdifferencesinethicalbeliefsandbehaviorstowardsoftwarecopyingtheeffectsoforganizationculture1999" target="understandingattitudesandpredictingsocialbehavior1980" />
+      <edge id="330" source="understandingdifferencesinethicalbeliefsandbehaviorstowardsoftwarecopyingtheeffectsoforganizationculture1999" target="softwarecopyrightinfringementsanexploratorystudyoftheeffectsofindividualandpeerbeliefs1997" />
+      <edge id="331" source="understandingdifferencesinethicalbeliefsandbehaviorstowardsoftwarecopyingtheeffectsoforganizationculture1999" target="theinvisiblebureaucracytheunconsciousinorganizationalproblemsolving1987" />
+      <edge id="332" source="understandingdifferencesinethicalbeliefsandbehaviorstowardsoftwarecopyingtheeffectsoforganizationculture1999" target="brownbagvssymanteccorp1992" />
+      <edge id="333" source="understandingdifferencesinethicalbeliefsandbehaviorstowardsoftwarecopyingtheeffectsoforganizationculture1999" target="didyouknowbusiness1997" />
+      <edge id="334" source="understandingdifferencesinethicalbeliefsandbehaviorstowardsoftwarecopyingtheeffectsoforganizationculture1999" target="factorsinfluencingsolwarepiracyimplicationsforaccountants1991" />
+      <edge id="335" source="understandingdifferencesinethicalbeliefsandbehaviorstowardsoftwarecopyingtheeffectsoforganizationculture1999" target="forwardofcashmathewsmstrategicinterventionsinorganizationsresolvingethicaldilemmas1988" />
+      <edge id="336" source="understandingdifferencesinethicalbeliefsandbehaviorstowardsoftwarecopyingtheeffectsoforganizationculture1999" target="corporateethicsandcrimeclinard1983" />
+      <edge id="337" source="understandingdifferencesinethicalbeliefsandbehaviorstowardsoftwarecopyingtheeffectsoforganizationculture1999" target="corporateculturestheritesandritualsofcorporatelijb1982" />
+      <edge id="338" source="understandingdifferencesinethicalbeliefsandbehaviorstowardsoftwarecopyingtheeffectsoforganizationculture1999" target="dimensionsofnationalcultureandeffectiveleadershippatternshofstederevisited1988" />
+      <edge id="339" source="understandingdifferencesinethicalbeliefsandbehaviorstowardsoftwarecopyingtheeffectsoforganizationculture1999" target="piracygarber1996" />
+      <edge id="340" source="understandingdifferencesinethicalbeliefsandbehaviorstowardsoftwarecopyingtheeffectsoforganizationculture1999" target="towardsanethicaldimensionofdecisionmakinginorganizations1996" />
+      <edge id="341" source="understandingdifferencesinethicalbeliefsandbehaviorstowardsoftwarecopyingtheeffectsoforganizationculture1999" target="acomparisonofisethicsattitudesamongcollegestudents1995" />
+      <edge id="342" source="understandingdifferencesinethicalbeliefsandbehaviorstowardsoftwarecopyingtheeffectsoforganizationculture1999" target="culturesandorganizationssoftwareofthemind1997" />
+      <edge id="343" source="understandingdifferencesinethicalbeliefsandbehaviorstowardsoftwarecopyingtheeffectsoforganizationculture1999" target="culturesconsequencesinternationaldifferencesinworkrelatedvalues1984" />
+      <edge id="344" source="understandingdifferencesinethicalbeliefsandbehaviorstowardsoftwarecopyingtheeffectsoforganizationculture1999" target="moralmazestheworldofcorporatemanagers1990" />
+      <edge id="345" source="understandingdifferencesinethicalbeliefsandbehaviorstowardsoftwarecopyingtheeffectsoforganizationculture1999" target="howmenandwomenviewethics1998" />
+      <edge id="346" source="understandingdifferencesinethicalbeliefsandbehaviorstowardsoftwarecopyingtheeffectsoforganizationculture1999" target="essentialsofmanagementinformationsystems1995" />
+      <edge id="347" source="understandingdifferencesinethicalbeliefsandbehaviorstowardsoftwarecopyingtheeffectsoforganizationculture1999" target="evaluatingethicaldecisionmakingandcomputeruse1996" />
+      <edge id="348" source="understandingdifferencesinethicalbeliefsandbehaviorstowardsoftwarecopyingtheeffectsoforganizationculture1999" target="softwarepiracyisitrelatedtolevelofmoraljudgment1994" />
+      <edge id="349" source="understandingdifferencesinethicalbeliefsandbehaviorstowardsoftwarecopyingtheeffectsoforganizationculture1999" target="isthisanywaytoruncyberspacewhythehackerethosisbadforthenet1996" />
+      <edge id="350" source="understandingdifferencesinethicalbeliefsandbehaviorstowardsoftwarecopyingtheeffectsoforganizationculture1999" target="softwarepiracyandcomputerusingprofessionalsasurvey1997" />
+      <edge id="351" source="understandingdifferencesinethicalbeliefsandbehaviorstowardsoftwarecopyingtheeffectsoforganizationculture1999" target="organizationcultureschein1990" />
+      <edge id="352" source="understandingdifferencesinethicalbeliefsandbehaviorstowardsoftwarecopyingtheeffectsoforganizationculture1999" target="organizationalcultureandleadershipschein1985" />
+      <edge id="353" source="understandingdifferencesinethicalbeliefsandbehaviorstowardsoftwarecopyingtheeffectsoforganizationculture1999" target="itsnotreallytheftpersonalandworkplaceethicsthatenablesoftwarepiracy1998" />
+      <edge id="354" source="understandingdifferencesinethicalbeliefsandbehaviorstowardsoftwarecopyingtheeffectsoforganizationculture1999" target="towardaprofileofstudentsowarepiraters1996" />
+      <edge id="355" source="understandingdifferencesinethicalbeliefsandbehaviorstowardsoftwarecopyingtheeffectsoforganizationculture1999" target="approachestoorganizationalcultureandethics1993" />
+      <edge id="356" source="understandingdifferencesinethicalbeliefsandbehaviorstowardsoftwarecopyingtheeffectsoforganizationculture1999" target="theeffectofdemographicfactorsonattitudestowardsoftwarepiracy1991" />
+      <edge id="357" source="understandingdifferencesinethicalbeliefsandbehaviorstowardsoftwarecopyingtheeffectsoforganizationculture1999" target="masculinityandfemininitytheirpsychologicaldimensionscorrelatesandantecedents1978" />
+      <edge id="358" source="understandingdifferencesinethicalbeliefsandbehaviorstowardsoftwarecopyingtheeffectsoforganizationculture1999" target="keyinformationliabilityissuesfacingmanagerssoftwarepiracyproprietarydatabasesandindividualrightstoprivacy1990" />
+      <edge id="359" source="understandingdifferencesinethicalbeliefsandbehaviorstowardsoftwarecopyingtheeffectsoforganizationculture1999" target="developmentofseriousandviolentoffendingcareers1998" />
+      <edge id="360" source="understandingdifferencesinethicalbeliefsandbehaviorstowardsoftwarecopyingtheeffectsoforganizationculture1999" target="theorganizationalbasesofethicalworkclimates1988" />
+      <edge id="361" source="understandingdifferencesinethicalbeliefsandbehaviorstowardsoftwarecopyingtheeffectsoforganizationculture1999" target="studiesofindividualismcollectivismeffectsoncooperationingroups1995" />
+      <edge id="362" source="computerabuseinformationtechnologiesandjudicialaffairs2000" target="studentcomputerusesurveyuniversity1999" />
+      <edge id="363" source="computerabuseinformationtechnologiesandjudicialaffairs2000" target="policyforresponsiblecomputinguniversity1992" />
+      <edge id="364" source="computerabuseinformationtechnologiesandjudicialaffairs2000" target="officialstudenthandbookuniversity2000" />
+      <edge id="365" source="computerabuseinformationtechnologiesandjudicialaffairs2000" target="policyforresponsiblecomputingastudentmanual1999" />
+      <edge id="366" source="computerabuseinformationtechnologiesandjudicialaffairs2000" target="soundbytingacampaigntoprotectmusicontheinternetcopyrightandmusic1011999" />
+      <edge id="367" source="computerabuseinformationtechnologiesandjudicialaffairs2000" target="mrnapstergoestowashington2000" />
+      <edge id="368" source="computerabuseinformationtechnologiesandjudicialaffairs2000" target="streaminganapstersolutiononcampus2000" />
+      <edge id="369" source="computerabuseinformationtechnologiesandjudicialaffairs2000" target="familyeducationalrightsandprivacyact1974" />
+      <edge id="370" source="computerabuseinformationtechnologiesandjudicialaffairs2000" target="howtoeliminatethe10mostcriticalinternetsecuritythreats2000" />
+      <edge id="371" source="computerabuseinformationtechnologiesandjudicialaffairs2000" target="announcingtheformationoftheeducausetaskforceonsystemsecurity2000" />
+      <edge id="372" source="theeffectofdemographicfactorsonattitudestowardssoftwarepiracy1991" target="copyrightprotectionofcomputersoftware1985" />
+      <edge id="373" source="theeffectofdemographicfactorsonattitudestowardssoftwarepiracy1991" target="remediesinsoftwarecopyrightcases1985" />
+      <edge id="374" source="theeffectofdemographicfactorsonattitudestowardssoftwarepiracy1991" target="123suelotusvsclones1987" />
+      <edge id="375" source="theeffectofdemographicfactorsonattitudestowardssoftwarepiracy1991" target="piratesparadiseshoppingforsoftwarebootleggedorbasiccanbearealexperienceinhongkong1986" />
+      <edge id="376" source="theeffectofdemographicfactorsonattitudestowardssoftwarepiracy1991" target="newfederallawbolsterscomputersecurity1986" />
+      <edge id="377" source="theeffectofdemographicfactorsonattitudestowardssoftwarepiracy1991" target="courtsexpandthecopyrightprotectionofsoftwarebutmanyquestionsremain1986" />
+      <edge id="378" source="theeffectofdemographicfactorsonattitudestowardssoftwarepiracy1991" target="definingethicalandunethicalstudentbehaviorsusingdepartmentalregulationsandsanctions1987" />
+      <edge id="379" source="theeffectofdemographicfactorsonattitudestowardssoftwarepiracy1991" target="whatcsgraduatesdontlearnaboutsecurityconceptsandethicalstandardsoreverycompanyhasitsshareofdamnfoolsnoweverydamnfoolhasaccesstoacomputer1986" />
+      <edge id="380" source="theeffectofdemographicfactorsonattitudestowardssoftwarepiracy1991" target="toughercopyrightswillboostinnovation1986" />
+      <edge id="381" source="theeffectofdemographicfactorsonattitudestowardssoftwarepiracy1991" target="anempiricalapproachfordetectingprogramsimilarityandplagiarismwithinauniversityprogrammingenvironment1987" />
+      <edge id="382" source="theeffectofdemographicfactorsonattitudestowardssoftwarepiracy1991" target="softwarepiracyitscostsandtheconsequences1987" />
+      <edge id="383" source="theeffectofdemographicfactorsonattitudestowardssoftwarepiracy1991" target="softwarelicensingforinstallationswithmultiplemicrocomputers1985" />
+      <edge id="384" source="theeffectofdemographicfactorsonattitudestowardssoftwarepiracy1991" target="copyrightandcomputersoftwarehaugness1985" />
+      <edge id="385" source="theeffectofdemographicfactorsonattitudestowardssoftwarepiracy1991" target="protectingyourmicrocomputersystemhighland1984" />
+      <edge id="386" source="theeffectofdemographicfactorsonattitudestowardssoftwarepiracy1991" target="circlingthewagonstheindustryisturningtolitigationinanattempttostemthehemorrhageofpiratedintellectualproperties1986" />
+      <edge id="387" source="theeffectofdemographicfactorsonattitudestowardssoftwarepiracy1991" target="computerethicsaguideforthenewage1984" />
+      <edge id="388" source="theeffectofdemographicfactorsonattitudestowardssoftwarepiracy1991" target="softwareprotectionchangestoaffectsitelicensingplans1986" />
+      <edge id="389" source="theeffectofdemographicfactorsonattitudestowardssoftwarepiracy1991" target="softwareindustrygroupssetsailagainstpiratesinacademe1986" />
+      <edge id="390" source="theeffectofdemographicfactorsonattitudestowardssoftwarepiracy1991" target="computerfraudandcountermeasureskrauss1979" />
+      <edge id="391" source="theeffectofdemographicfactorsonattitudestowardssoftwarepiracy1991" target="thecopyrightfightmachrone1987" />
+      <edge id="392" source="theeffectofdemographicfactorsonattitudestowardssoftwarepiracy1991" target="softwareandthelawpallette1986" />
+      <edge id="393" source="theeffectofdemographicfactorsonattitudestowardssoftwarepiracy1991" target="coalitiontocombatsoftwarepiracypublisherspursuehongkongcounterfeiters1987" />
+      <edge id="394" source="theeffectofdemographicfactorsonattitudestowardssoftwarepiracy1991" target="publisherstakeonsoftwarepiracyinacademia1987" />
+      <edge id="395" source="theeffectofdemographicfactorsonattitudestowardssoftwarepiracy1991" target="usersoftwarefirmscontinuetodebatecopyprotectionissues1986" />
+      <edge id="396" source="theeffectofdemographicfactorsonattitudestowardssoftwarepiracy1991" target="softwarepiracylimitsusexportgrowth1986" />
+      <edge id="397" source="theeffectofdemographicfactorsonattitudestowardssoftwarepiracy1991" target="copyrightandcomputersoftwareaquestionofethics1984" />
+      <edge id="398" source="theeffectofdemographicfactorsonattitudestowardssoftwarepiracy1991" target="breakingthecopyprotectionbarriersavailable1986" />
+      <edge id="399" source="theeffectofdemographicfactorsonattitudestowardssoftwarepiracy1991" target="adivisivelotusclonewar1987" />
+      <edge id="400" source="theeffectofdemographicfactorsonattitudestowardssoftwarepiracy1991" target="usersmusttakeresponsibilitytocontroltheillegalcopyingofsoftware1987" />
+      <edge id="401" source="theeffectofdemographicfactorsonattitudestowardssoftwarepiracy1991" target="costsofcopyprotectionhitsoftwaremakertoo1986" />
+      <edge id="402" source="theeffectofdemographicfactorsonattitudestowardssoftwarepiracy1991" target="publicperceptionsoftheintellectualpropertyrightsissue1985" />
+      <edge id="403" source="theeffectofdemographicfactorsonattitudestowardssoftwarepiracy1991" target="computersandlawcopyingmassmarketedsoftware1985" />
+      <edge id="404" source="theeffectofdemographicfactorsonattitudestowardssoftwarepiracy1991" target="riseinlawsuitsoverillegalsoftwareusepromptscompaniestorevampusagepolicies1985" />
+      <edge id="405" source="theeffectofdemographicfactorsonattitudestowardssoftwarepiracy1991" target="softwarepiratesbewareborkinisoutforblood1986" />
+      <edge id="406" source="theeffectofdemographicfactorsonattitudestowardssoftwarepiracy1991" target="softwarerentalpiracyandcopyrightprotection1984" />
+    </edges>
+  </graph>
+</gexf>
